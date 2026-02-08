@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRISM AI News Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="dashboard.css">
+</head>
+
+<body>
+    <div class="background-gradient"></div>
+
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <div class="logo-container">
+                    <img src="logo.png" alt="PRISM Logo" class="prism-logo">
+                    <h1 class="title">AI News</h1>
+                </div>
+                <p class="subtitle">Latest AI news from Ben's Bites, The AI Rundown, and Reddit</p>
+            </div>
+
+            <div class="filters">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="saved">Saved</button>
+                <button class="filter-btn" data-filter="Ben's Bites">Ben's Bites</button>
+                <button class="filter-btn" data-filter="The AI Rundown">The AI Rundown</button>
+                <button class="filter-btn" data-filter="Reddit">Reddit</button>
+            </div>
+        </header>
+
+        <div class="stats-bar">
+            <div class="stat">
+                <span class="stat-value" id="total-count">0</span>
+                <span class="stat-label">Total Articles</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="saved-count">0</span>
+                <span class="stat-label">Saved</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="last-updated">Never</span>
+                <span class="stat-label">Last Updated</span>
+            </div>
+        </div>
+
+        <div id="articles-grid" class="articles-grid">
+            <!-- Articles will be rendered here -->
+        </div>
+
+        <div id="loading" class="loading" style="display: none;">
+            <div class="loading-spinner"></div>
+            <p>Loading articles...</p>
+        </div>
+
+        <div id="empty-state" class="empty-state" style="display: none;">
+            <div class="empty-icon">📭</div>
+            <h2>No articles found</h2>
+            <p>Try adjusting your filters or check back later</p>
+        </div>
+
+        <div id="error-state" class="error-state" style="display: none;">
+            <div class="error-icon">⚠️</div>
+            <h2>Oops! Something went wrong</h2>
+            <p id="error-message"></p>
+            <button onclick="loadArticles()" class="retry-btn">Retry</button>
+        </div>
+    </div>
+
+    <div id="notification" class="notification">
+        <span id="notification-text"></span>
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+
+</html>

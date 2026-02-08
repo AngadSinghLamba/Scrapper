@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/articles",
+            "destination": "/articles.json"
+        }
+    ],
+    "cleanUrls": true
+}

@@ -175,6 +175,9 @@ async function toggleSave(articleId) {
         });
 
         if (!response.ok) {
+            if (response.status === 405 || response.status === 404) {
+                throw new Error('Save functionality is not available in the static preview. Use the local server for full features.');
+            }
             throw new Error('Failed to update save status');
         }
 

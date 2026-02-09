@@ -15,8 +15,8 @@
 - Total in storage: 40 articles
 - Status: ✅ All scrapers successful
 
-## [2026-02-09 15:12:49 UTC] Scraper Run
-- Fetched: 20 articles
-- Filtered (24h): 20 articles
-- Total in storage: 20 articles
+## [2026-02-08 07:32:25 UTC] Scraper Run
+- Fetched: 30 articles
+- Filtered (24h): 30 articles
+- Total in storage: 30 articles
 - Status: ✅ All scrapers successful

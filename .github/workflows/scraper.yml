@@ -32,6 +32,23 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          git add articles.json || true
-          git add progress.md || true
-          git diff --staged --quiet || (git commit -m "Update articles - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push) || echo "No changes to commit"
+          # Check status before adding
+          echo "Current git status:"
+          git status
+          
+          # Add files
+          git add articles.json || echo "articles.json not found"
+          git add progress.md || echo "progress.md not found"
+          
+          # Check status after adding
+          echo "Status after add:"
+          git status
+          
+          # Commit only if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "Update articles - $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "::notice::Successfully pushed updates to GitHub"
+          else
+            echo "::notice::No changes detected. Skipping commit."
+          fi

@@ -25,11 +25,12 @@ jobs:
           
       - name: Run scraper
         run: |
+          mkdir -p .tmp
           python tools/manager.py
           
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          git add .tmp/articles.json articles.json
+          git add articles.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update articles - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)

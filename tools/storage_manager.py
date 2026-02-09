@@ -12,7 +12,7 @@ from typing import List, Dict, Optional
 import hashlib
 
 # Path to storage file
-STORAGE_PATH = os.path.join(os.path.dirname(__file__), '..', '.tmp', 'articles.json')
+STORAGE_PATH = os.path.join(os.path.dirname(__file__), '..', 'articles.json')
 BACKUP_PATH = STORAGE_PATH + '.backup'
 
 
@@ -35,17 +35,7 @@ def validate_article(article: Dict) -> bool:
 
 def load_articles() -> Dict:
     """Load articles from JSON storage."""
-    # Fallback to root articles.json if .tmp version is missing (e.g. in fresh CI environment)
-    if not os.path.exists(STORAGE_PATH):
-        root_path = os.path.join(os.path.dirname(__file__), '..', 'articles.json')
-        if os.path.exists(root_path):
-            print(f"🔄 Initializing .tmp storage from {root_path}")
-            try:
-                os.makedirs(os.path.dirname(STORAGE_PATH), exist_ok=True)
-                shutil.copy(root_path, STORAGE_PATH)
-            except Exception as e:
-                print(f"⚠️  Could not copy root articles to .tmp: {e}")
-
+    
     if not os.path.exists(STORAGE_PATH):
         return {
             "last_updated": datetime.utcnow().isoformat() + "Z",
@@ -81,8 +71,12 @@ def save_articles(articles: List[Dict]) -> bool:
             return False
     
     # Create backup of existing file
-    if os.path.exists(STORAGE_PATH):
-        shutil.copy(STORAGE_PATH, BACKUP_PATH)
+    # We do this only if the file exists and is valid (not empty)
+    if os.path.exists(STORAGE_PATH) and os.path.getsize(STORAGE_PATH) > 0:
+        try:
+            shutil.copy(STORAGE_PATH, BACKUP_PATH)
+        except Exception as e:
+            print(f"⚠️  Could not create backup: {e}")
     
     # Prepare data structure
     data = {

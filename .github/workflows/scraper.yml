@@ -32,5 +32,5 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          git add articles.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update articles - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
+          git add articles.json progress.md
+          git diff --staged --quiet || (git commit -m "Update articles - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)

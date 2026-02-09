@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T07:32:25.111643Z",
+  "last_updated": "2026-02-09T15:53:28.532276Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,7 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-02-08T07:31:11.550561+00:00",
+      "published_at": "2026-02-09T15:52:53.309053+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +21,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/vibe-coding-is-old-now",
       "summary": "Anthropic's new ad, it's about... ads",
-      "published_at": "2026-02-08T07:31:13.291593+00:00",
+      "published_at": "2026-02-09T15:52:54.467257+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-02-08T07:31:14.475095+00:00",
+      "published_at": "2026-02-09T15:52:55.603729+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/whats-next-for-coding-agents",
       "summary": "New UIs, lobsters and imagined worlds.",
-      "published_at": "2026-02-08T07:31:17.052589+00:00",
+      "published_at": "2026-02-09T15:52:56.756599+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/writing-research-made-easy",
       "summary": "Improving vision using code",
-      "published_at": "2026-02-08T07:31:18.730547+00:00",
+      "published_at": "2026-02-09T15:52:57.900416+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/skills-are-taking-over",
       "summary": "A new model I'm excited about",
-      "published_at": "2026-02-08T07:31:21.262072+00:00",
+      "published_at": "2026-02-09T15:52:59.026834+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/using-coding-agents-if-youre-not",
       "summary": "Vibe code with me today",
-      "published_at": "2026-02-08T07:31:22.990597+00:00",
+      "published_at": "2026-02-09T15:53:00.158708+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/ads-in-your-chats",
       "summary": "OpenAI made $20B in 2025",
-      "published_at": "2026-02-08T07:31:25.256118+00:00",
+      "published_at": "2026-02-09T15:53:01.273832+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/agents-that-keep-running",
       "summary": "plus a promise of personalization and useful skills",
-      "published_at": "2026-02-08T07:31:27.905436+00:00",
+      "published_at": "2026-02-09T15:53:02.430875+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -133,11 +133,25 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/claude-code-for-everybody",
       "summary": "What is Ralph Wiggum?",
-      "published_at": "2026-02-08T07:31:29.613796+00:00",
+      "published_at": "2026-02-09T15:53:03.584488+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
         "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "b057828d4a36625e",
+      "title": "AI ads steal the show at Super Bowl LXPLUS: Build custom lead widgets for your site without codingZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/ai-ads-steal-the-show-at-super-bowl-lx",
+      "summary": "AI takes center stage at Super Bowl LX, with tech giants and startups showcasing groundbreaking ads that highlight artificial intelligence's explosive mainstream potential and creativity.",
+      "published_at": "2026-02-09T15:53:07.067480+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-anthropic-fight-on-the-frontier",
       "summary": "OpenAI and Anthropic battle on the AI frontier, unveiling groundbreaking advancements in agentic coding, self-improving models, and enterprise automation.",
-      "published_at": "2026-02-08T07:31:36.213686+00:00",
+      "published_at": "2026-02-09T15:53:09.265348+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropics-ad-free-campaign-takes-aim-at-openai",
       "summary": "Anthropic launches bold Super Bowl campaign challenging OpenAI's ad strategy, positioning Claude as the principled AI alternative in a high-stakes industry showdown.",
-      "published_at": "2026-02-08T07:31:39.137990+00:00",
+      "published_at": "2026-02-09T15:53:11.421497+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/sam-altmans-openai-succession-plan",
       "summary": "Sam Altman unveils OpenAI's bold succession strategy, highlighting leadership continuity and vision while sparking industry-wide speculation about the company's future direction.",
-      "published_at": "2026-02-08T07:31:42.013329+00:00",
+      "published_at": "2026-02-09T15:53:13.462140+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/xai-joins-spacex-in-mega-merger",
       "summary": "Elon Musk merges xAI and SpaceX into a $1.25T powerhouse, pioneering space-based compute and reshaping the future of AI infrastructure with an unprecedented strategic vision.",
-      "published_at": "2026-02-08T07:31:44.986471+00:00",
+      "published_at": "2026-02-09T15:53:15.423045+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-agents-get-their-own-social-network",
       "summary": "AI agents create their own social network Moltbook, sparking wild interactions and raising questions about AI autonomy, communication, and unexpected digital behaviors.",
-      "published_at": "2026-02-08T07:31:47.787044+00:00",
+      "published_at": "2026-02-09T15:53:17.487798+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/xais-grok-imagine-climbs-the-leaderboards",
       "summary": "xAI's Grok Imagine rockets to the top of video leaderboards, setting new standards for AI image and video generation with unmatched speed, affordability, and creative quality.",
-      "published_at": "2026-02-08T07:31:50.640685+00:00",
+      "published_at": "2026-02-09T15:53:19.597977+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/chrome-gets-agentic-ai-upgrade",
       "summary": "Explore Chrome's groundbreaking Gemini AI upgrade, bringing agentic browsing to the world's most popular browser and transforming how users interact with the web in 2025.",
-      "published_at": "2026-02-08T07:31:53.502407+00:00",
+      "published_at": "2026-02-09T15:53:22.112609+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/viral-ai-agent-molts-past-trademark-trouble",
       "summary": "PLUS: Moonshot’s K2.5 open-source model rivals frontier labs",
-      "published_at": "2026-02-08T07:31:56.386475+00:00",
+      "published_at": "2026-02-09T15:53:24.538701+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,176 +273,12 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-ceo-confronts-ais-dangers",
       "summary": "Anthropic's CEO warns of AI's critical crossroads, revealing humanity's pivotal choice between transformative potential and existential risk in the next crucial years.",
-      "published_at": "2026-02-08T07:31:59.723725+00:00",
+      "published_at": "2026-02-09T15:53:26.704742+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
         "author": "Zach Mink",
         "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "ef6a744efafdaaa1",
-      "title": "Claude for Excel opens the gatesPLUS: Create ads and marketing videos in minutes with RemotionZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/claude-for-excel-opens-the-gates",
-      "summary": "Claude for Excel breaks productivity barriers, bringing AI-powered assistance directly into spreadsheets and transforming workflows for millions of knowledge workers worldwide.",
-      "published_at": "2026-02-08T07:32:02.505930+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "2f1c39c96db81bc8",
-      "title": "Humanoids are not always the solution",
-      "source": "Reddit",
-      "url": "https://v.redd.it/ndogywxnf1ig1",
-      "summary": "",
-      "published_at": "2026-02-07T09:03:27+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "japie06",
-        "upvotes": 1494,
-        "subreddit": "Singularity"
-      }
-    },
-    {
-      "id": "258e6568120c53bd",
-      "title": "Anthropic releasing a 2.5x faster version of Opus 4.6.",
-      "source": "Reddit",
-      "url": "https://www.reddit.com/gallery/1qymfh2",
-      "summary": "",
-      "published_at": "2026-02-07T19:08:28+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "Just_Stretch5492",
-        "upvotes": 451,
-        "subreddit": "Singularity"
-      }
-    },
-    {
-      "id": "56cc6168a5ed4e77",
-      "title": "Upcoming Seedance 2 demo video, ByteDance’s new SOTA AI tool",
-      "source": "Reddit",
-      "url": "https://v.redd.it/3yb19dz2r3ig1",
-      "summary": "",
-      "published_at": "2026-02-07T16:53:53+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "LightVelox",
-        "upvotes": 329,
-        "subreddit": "Singularity"
-      }
-    },
-    {
-      "id": "c899be1506afedd8",
-      "title": "OAI researcher Noam Brown responds to question about absurd METR pace saying it will continue and METR will have trouble measuring time horizons that long by end of year",
-      "source": "Reddit",
-      "url": "https://www.reddit.com/gallery/1qyx3k3",
-      "summary": "Link to twitter thread: https://x.com/polynoamial/status/2020236875496321526?s=20",
-      "published_at": "2026-02-08T02:39:08+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "socoolandawesome",
-        "upvotes": 142,
-        "subreddit": "Singularity"
-      }
-    },
-    {
-      "id": "ffa88bbbb33420fc",
-      "title": "Atlas Airborne | Boston Dynamics &amp; ‪RAI institute",
-      "source": "Reddit",
-      "url": "https://v.redd.it/lvfdhm2zo5ig1",
-      "summary": "Source: [https://www.youtube.com/watch?v=UNorxwlZlFk](https://www.youtube.com/watch?v=UNorxwlZlFk)  \n",
-      "published_at": "2026-02-07T23:24:57+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "GraceToSentience",
-        "upvotes": 59,
-        "subreddit": "Singularity"
-      }
-    },
-    {
-      "id": "fe5e7aa208341373",
-      "title": "Claude Saturates anthropic AI R&amp;D evaluations btw.",
-      "source": "Reddit",
-      "url": "https://i.redd.it/yua0undns6ig1.png",
-      "summary": "Feel like not enough people are taking about this so...",
-      "published_at": "2026-02-08T03:05:33+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "GeneralZain",
-        "upvotes": 50,
-        "subreddit": "Singularity"
-      }
-    },
-    {
-      "id": "08787ec60239574c",
-      "title": "Goldman Sachs taps Anthropic's Claude to automate accounting tasks with AI agents",
-      "source": "Reddit",
-      "url": "https://www.google.com/amp/s/www.cnbc.com/amp/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html",
-      "summary": "Goldman Sachs has been working with the AI startup Anthropic to create AI agents to **automate** a growing number of roles within the bank.\n\nThe bank has, for the past six months, been working with em...",
-      "published_at": "2026-02-08T04:56:41+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "BuildwithVignesh",
-        "upvotes": 20,
-        "subreddit": "Singularity"
-      }
-    },
-    {
-      "id": "ea15ac18fb2d60f1",
-      "title": "Is there anything that could convince you that a hypothetical AI model genuinely understands what it's doing or talking about?",
-      "source": "Reddit",
-      "url": "https://www.reddit.com/r/singularity/comments/1qymns3/is_there_anything_that_could_convince_you_that_a/",
-      "summary": "Do you think it's even possible to tell? Current LLMs might just be sophisticated stochastic parrots, but hypothetically, AI based on a completely different architecture could \"think\" like a human. Do...",
-      "published_at": "2026-02-07T19:17:11+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "aintwhatyoudo",
-        "upvotes": 14,
-        "subreddit": "Singularity"
-      }
-    },
-    {
-      "id": "cc6a92a399ce57a7",
-      "title": "Artificial Intelligence - Press Conference | United Nations",
-      "source": "Reddit",
-      "url": "https://youtu.be/wFgcDPRewZg",
-      "summary": "",
-      "published_at": "2026-02-07T11:51:21+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "Worldly_Evidence9113",
-        "upvotes": 14,
-        "subreddit": "Singularity"
-      }
-    },
-    {
-      "id": "4b702677426554f4",
-      "title": "Recently I experienced my first prompt injection attack. As weird as it sounds, I kind of feel honored.",
-      "source": "Reddit",
-      "url": "https://www.reddit.com/r/singularity/comments/1qyuorq/recently_i_experienced_my_first_prompt_injection/",
-      "summary": "We're in the 90s of AI. Just like the internet had so much potential, but we all knew it lacked the infrastructure, just as AI today lacks the necessary compute and bandwidth... We also have the total...",
-      "published_at": "2026-02-08T00:48:06+00:00",
-      "category": "r/Singularity",
-      "saved": false,
-      "metadata": {
-        "author": "reddit_is_geh",
-        "upvotes": 9,
-        "subreddit": "Singularity"
       }
     }
   ]

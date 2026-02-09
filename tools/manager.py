@@ -143,6 +143,15 @@ def run_scrapers():
     
     if success:
         print("✅ Articles saved successfully")
+        
+        # Copy to root directory for Vercel
+        try:
+            import shutil
+            root_articles = os.path.join(os.path.dirname(__file__), '..', 'articles.json')
+            shutil.copy(STORAGE_PATH, root_articles)
+            print("📋 Copied articles.json to root directory")
+        except Exception as e:
+            print(f"⚠️  Could not copy to root: {e}")
     else:
         print("❌ Failed to save articles")
     

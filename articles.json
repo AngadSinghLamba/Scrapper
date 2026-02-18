@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T01:25:50.672450Z",
+  "last_updated": "2026-02-18T01:28:42.034731Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,21 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-02-17T01:25:13.827062+00:00",
+      "published_at": "2026-02-18T01:28:04.289113+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "00886d6548afd838",
+      "title": "Dreaming up personal agents",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/dreaming-up-personal-agents",
+      "summary": "OpenClaw's maker is joining OpenAI",
+      "published_at": "2026-02-18T01:28:05.682354+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/something-big-is-happening",
       "summary": "not just $60m seed rounds...",
-      "published_at": "2026-02-17T01:25:15.117072+00:00",
+      "published_at": "2026-02-18T01:28:06.867932+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/who-owns-the-frontier",
       "summary": "it's time to let the minions run wild",
-      "published_at": "2026-02-17T01:25:16.217262+00:00",
+      "published_at": "2026-02-18T01:28:08.044932+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/vibe-coding-is-old-now",
       "summary": "Anthropic's new ad, it's about... ads",
-      "published_at": "2026-02-17T01:25:17.317780+00:00",
+      "published_at": "2026-02-18T01:28:09.205453+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-02-17T01:25:18.481917+00:00",
+      "published_at": "2026-02-18T01:28:10.303169+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/whats-next-for-coding-agents",
       "summary": "New UIs, lobsters and imagined worlds.",
-      "published_at": "2026-02-17T01:25:19.570751+00:00",
+      "published_at": "2026-02-18T01:28:11.465354+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/writing-research-made-easy",
       "summary": "Improving vision using code",
-      "published_at": "2026-02-17T01:25:20.732839+00:00",
+      "published_at": "2026-02-18T01:28:12.621601+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/skills-are-taking-over",
       "summary": "A new model I'm excited about",
-      "published_at": "2026-02-17T01:25:21.808885+00:00",
+      "published_at": "2026-02-18T01:28:13.749522+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,165 +133,11 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/using-coding-agents-if-youre-not",
       "summary": "Vibe code with me today",
-      "published_at": "2026-02-17T01:25:22.912053+00:00",
+      "published_at": "2026-02-18T01:28:14.905646+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
         "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "37c429d3c97c5c51",
-      "title": "Ads in your chats",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/ads-in-your-chats",
-      "summary": "OpenAI made $20B in 2025",
-      "published_at": "2026-02-17T01:25:23.999684+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "96714087f9d0d023",
-      "title": "AI's new physics discoveryPLUS: ByteDance continues frontier push with Seed 2.0 launchZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/ais-new-physics-discovery",
-      "summary": "AI breakthrough in particle physics: GPT-5.2 disproves longstanding theory, autonomously generates proof and reignites debate on AI's scientific thinking capabilities.",
-      "published_at": "2026-02-17T01:25:28.288290+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "58ec620e0f93d402",
-      "title": "Google's upgrade breaks reasoning barriersPLUS: How to generate a TV commercial with AIZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/googles-upgrade-breaks-reasoning-barriers",
-      "summary": "Google's upgraded Deep Think AI shatters reasoning benchmarks, demonstrating unprecedented problem-solving capabilities in math, coding, and scientific research domains.",
-      "published_at": "2026-02-17T01:25:30.313482+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "0e51aa93dfed9a96",
-      "title": "xAI's next phase unleashedPLUS: Turn SOP docs into talking-head training videosZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/xai-s-next-phase-unleashed",
-      "summary": "XAI's first all-hands meeting reveals bold restructuring plans, moon-based data centers, and insights into Elon Musk's evolving AI strategy after key team departures.",
-      "published_at": "2026-02-17T01:25:32.480027+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "fc44d4f871ec6bb9",
-      "title": "xAI's co-founder exodus continuesPLUS: Improve Claude Code with  the “Insights” featureZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/xai-co-founder-exodus-continues",
-      "summary": "xAI faces mounting leadership challenges as five co-founders exit in less than a year, sparking industry speculation about the company's internal dynamics and strategic direction.",
-      "published_at": "2026-02-17T01:25:34.655465+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "38324cbefa41871e",
-      "title": "ByteDance stuns the AI video worldPLUS: Build an AI-powered sales objection handlerZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/bytedance-stuns-the-ai-video-world",
-      "summary": "ByteDance's Seedance 2.0 revolutionizes AI video generation, showcasing unprecedented creative capabilities that challenge global competitors and hint at a transformative Eastern innovation.",
-      "published_at": "2026-02-17T01:25:36.799451+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "b057828d4a36625e",
-      "title": "AI ads steal the show at Super Bowl LXPLUS: Build custom lead widgets for your site without codingZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/ai-ads-steal-the-show-at-super-bowl-lx",
-      "summary": "AI takes center stage at Super Bowl LX, with tech giants and startups showcasing groundbreaking ads that highlight artificial intelligence's explosive mainstream potential and creativity.",
-      "published_at": "2026-02-17T01:25:39.410601+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "ab8545777f0abe04",
-      "title": "OpenAI, Anthropic fight on the frontierPLUS: Cut down reporting times with Claude in ExcelZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/openai-anthropic-fight-on-the-frontier",
-      "summary": "OpenAI and Anthropic battle on the AI frontier, unveiling groundbreaking advancements in agentic coding, self-improving models, and enterprise automation.",
-      "published_at": "2026-02-17T01:25:41.600846+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "49d86a44021de2df",
-      "title": "Anthropic’s ad-free campaign takes aim at OpenAIPLUS: Set up a coordinated coding team with the Codex AppZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/anthropics-ad-free-campaign-takes-aim-at-openai",
-      "summary": "Anthropic launches bold Super Bowl campaign challenging OpenAI's ad strategy, positioning Claude as the principled AI alternative in a high-stakes industry showdown.",
-      "published_at": "2026-02-17T01:25:43.859777+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "a72b372de0b4edd4",
-      "title": "Sam Altman’s OpenAI succession planPLUS: Build a \"brand twin\" that writes in your exact voiceZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/sam-altmans-openai-succession-plan",
-      "summary": "Sam Altman unveils OpenAI's bold succession strategy, highlighting leadership continuity and vision while sparking industry-wide speculation about the company's future direction.",
-      "published_at": "2026-02-17T01:25:46.330241+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "21b3b0e04288b1a4",
-      "title": "xAI joins SpaceX in mega-mergerPLUS: OpenAI launches Codex App as “command center” for agentsZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/xai-joins-spacex-in-mega-merger",
-      "summary": "Elon Musk merges xAI and SpaceX into a $1.25T powerhouse, pioneering space-based compute and reshaping the future of AI infrastructure with an unprecedented strategic vision.",
-      "published_at": "2026-02-17T01:25:49.360565+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     }

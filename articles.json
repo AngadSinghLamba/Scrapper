@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T01:25:12.823788Z",
+  "last_updated": "2026-03-10T01:20:00.606055Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,7 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-03-09T01:24:38.193907+00:00",
+      "published_at": "2026-03-10T01:19:25.515536+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +21,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/google-apps-in-the-terminal",
       "summary": "two new models, lot of rumours and revenue",
-      "published_at": "2026-03-09T01:24:39.298681+00:00",
+      "published_at": "2026-03-10T01:19:26.607619+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/models-on-the-march",
       "summary": "50M paying consumers for ChatGPT",
-      "published_at": "2026-03-09T01:24:40.393939+00:00",
+      "published_at": "2026-03-10T01:19:27.706841+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/claude-has-some-conflicts",
       "summary": "Notion, Perplexity and computer using agents",
-      "published_at": "2026-03-09T01:24:41.494467+00:00",
+      "published_at": "2026-03-10T01:19:28.816518+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/gemini-tops-benchmarks-again",
       "summary": "10x faster models and the consulting angle for AI",
-      "published_at": "2026-03-09T01:24:42.841933+00:00",
+      "published_at": "2026-03-10T01:19:29.911308+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/big-upgrade-for-sonnet",
       "summary": "and massive downgrade in developer comms",
-      "published_at": "2026-03-09T01:24:43.932605+00:00",
+      "published_at": "2026-03-10T01:19:31.039375+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/dreaming-up-personal-agents",
       "summary": "OpenClaw's maker is joining OpenAI",
-      "published_at": "2026-03-09T01:24:45.029744+00:00",
+      "published_at": "2026-03-10T01:19:32.224967+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/something-big-is-happening",
       "summary": "not just $60m seed rounds...",
-      "published_at": "2026-03-09T01:24:46.127423+00:00",
+      "published_at": "2026-03-10T01:19:33.398279+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/who-owns-the-frontier",
       "summary": "it's time to let the minions run wild",
-      "published_at": "2026-03-09T01:24:47.250460+00:00",
+      "published_at": "2026-03-10T01:19:34.571893+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -133,7 +133,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/vibe-coding-is-old-now",
       "summary": "Anthropic's new ad, it's about... ads",
-      "published_at": "2026-03-09T01:24:48.357341+00:00",
+      "published_at": "2026-03-10T01:19:35.751610+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -142,12 +142,26 @@
       }
     },
     {
+      "id": "277723a1e6b70807",
+      "title": "OpenAI's robotics lead exits over Pentagon dealPLUS: How to build an AI case study generatorZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/openai-robotics-lead-exits-over-pentagon-deal",
+      "summary": "OpenAI's robotics lead resigns over Pentagon deal amid surveillance concerns, signaling internal backlash over controversial military AI partnership.",
+      "published_at": "2026-03-10T01:19:39.940205+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
+        "newsletter_issue": ""
+      }
+    },
+    {
       "id": "be3a5f36b8764de0",
-      "title": "AI will make engineering more human, not lessWhat changes, what breaks, and what still belongs to humans the modern age of developmentShubham Sharma, +2",
+      "title": "AI will make engineering more human, not lessWhat changes, what breaks, and what still belongs to humans in the modern age of developmentShubham Sharma, +2",
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-will-make-engineering-more-human-not-less",
       "summary": "What changes, what breaks, and what still belongs to humans the modern age of development",
-      "published_at": "2026-03-09T01:24:52.621876+00:00",
+      "published_at": "2026-03-10T01:19:42.054708+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openais-best-model-ever-goes-live",
       "summary": "OpenAI's new GPT-5.4 model outperforms humans on 83% of job-specific tasks, delivering breakthrough capabilities in math, coding, and reasoning. The company's best model yet.",
-      "published_at": "2026-03-09T01:24:54.682967+00:00",
+      "published_at": "2026-03-10T01:19:44.188137+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/amodei-torches-openai-in-leaked-memo",
       "summary": "Dario Amodei torches OpenAI in leaked memo, calling the Pentagon deal \"straight up lies\" and safety theater in scathing internal message to Anthropic staff.",
-      "published_at": "2026-03-09T01:24:56.603503+00:00",
+      "published_at": "2026-03-10T01:19:46.377175+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/altman-faces-the-fallout-from-openai-s-pentagon-deal",
       "summary": "PLUS: Create killer thumbnails with this Midjourney technique",
-      "published_at": "2026-03-09T01:24:58.633974+00:00",
+      "published_at": "2026-03-10T01:19:48.470101+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/supreme-court-ducks-ai-copyright-question",
       "summary": "Supreme Court avoids landmark AI copyright ruling as artificial intelligence challenges traditional authorship laws and content creation standards.",
-      "published_at": "2026-03-09T01:25:00.671124+00:00",
+      "published_at": "2026-03-10T01:19:50.583276+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-steps-into-anthropic-pentagon-void",
       "summary": "OpenAI secures Pentagon contract after Anthropic's removal, reshaping AI's role in government and military operations amid political tensions.",
-      "published_at": "2026-03-09T01:25:02.811895+00:00",
+      "published_at": "2026-03-10T01:19:52.627591+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/the-new-top-banana-in-ai-image-generation",
       "summary": "Google's Nano Banana 2 reclaims AI image generation crown with superior quality at half the cost. Plus: create AI assistants with phone numbers.",
-      "published_at": "2026-03-09T01:25:04.789259+00:00",
+      "published_at": "2026-03-10T01:19:54.709247+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/perplexitys-19-model-ai-computer",
       "summary": "Perplexity launches 19-model AI 'Computer' orchestrating frontier models for agentic workflows, advancing AI agents beyond the mainstream with innovative task automation.",
-      "published_at": "2026-03-09T01:25:06.862706+00:00",
+      "published_at": "2026-03-10T01:19:56.934678+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/pentagon-hits-claude-with-scary-ai-ultimatum",
       "summary": "Pentagon pressures Anthropic to remove AI safeguards on Claude amid autonomous weapons concerns. Plus: AI video translation breakthroughs.",
-      "published_at": "2026-03-09T01:25:09.051679+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "b76ab786bbe234dc",
-      "title": "Anthropic calls out China's AI copycatsPLUS: Build better slide decks with AIZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/anthropic-calls-out-china-ai-copycats",
-      "summary": "Anthropic exposes Chinese AI labs cloning Claude through millions of fake accounts, raising urgent industry concerns about AI model theft and competitive espionage.",
-      "published_at": "2026-03-09T01:25:11.291013+00:00",
+      "published_at": "2026-03-10T01:19:59.126499+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

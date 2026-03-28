@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T01:47:25.247092Z",
+  "last_updated": "2026-03-28T01:27:13.544341Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,7 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-03-27T01:46:53.778554+00:00",
+      "published_at": "2026-03-28T01:26:38.645811+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +21,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/a-peek-inside-cli-tools",
       "summary": "No more funny videos at OpenAI",
-      "published_at": "2026-03-27T01:46:54.886110+00:00",
+      "published_at": "2026-03-28T01:26:39.940997+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/agents-should-interview-you",
       "summary": "is claude trying to become openclaw?",
-      "published_at": "2026-03-27T01:46:55.975367+00:00",
+      "published_at": "2026-03-28T01:26:41.183885+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/bens-builds-2",
       "summary": "my stack, instructions, tools and skills",
-      "published_at": "2026-03-27T01:46:57.075657+00:00",
+      "published_at": "2026-03-28T01:26:42.330803+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/what-makes-a-good-agentsmd",
       "summary": "run Claude Cowork from your mobile phone",
-      "published_at": "2026-03-27T01:46:58.339342+00:00",
+      "published_at": "2026-03-28T01:26:43.578874+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/nvidia-loves-openclaw",
       "summary": "the era of vibe-coding is over",
-      "published_at": "2026-03-27T01:46:59.427862+00:00",
+      "published_at": "2026-03-28T01:26:44.706461+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/this-is-a-new-format-id-like-to-try",
       "summary": "do you prefer this or the original?",
-      "published_at": "2026-03-27T01:47:00.510785+00:00",
+      "published_at": "2026-03-28T01:26:45.818730+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/how-and-what-im-building-this-week",
       "summary": "my stack, instructions, tools and skills",
-      "published_at": "2026-03-27T01:47:01.679850+00:00",
+      "published_at": "2026-03-28T01:26:46.990491+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/make-any-media-searchable",
       "summary": "web access CLIs, sandboxes and another openclaw clone",
-      "published_at": "2026-03-27T01:47:02.788204+00:00",
+      "published_at": "2026-03-28T01:26:48.128636+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -133,11 +133,25 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/just-use-gpt-54-xhigh",
       "summary": "workshop recording inside",
-      "published_at": "2026-03-27T01:47:03.879311+00:00",
+      "published_at": "2026-03-28T01:26:49.299610+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
         "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "6cbfdfcf2b8b2b1c",
+      "title": "Meta's new open-source brain AIPLUS: Use Perplexity Computer as a personal shopperZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/meta-new-open-source-brain-ai",
+      "summary": "Meta's open-source brain AI predicts neural activity from visual and audio stimuli, advancing neuroscience research while raising questions about AI and advertising implications.",
+      "published_at": "2026-03-28T01:26:52.915487+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/arc-agi-3-resets-frontier-ai-scoreboard",
       "summary": "ARC-AGI-3 resets the AI frontier scoreboard as top models struggle with only 1% scores, revealing how far we still are from AGI breakthroughs.",
-      "published_at": "2026-03-27T01:47:07.209395+00:00",
+      "published_at": "2026-03-28T01:26:55.001429+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-sora-gets-the-axe",
       "summary": "OpenAI discontinues Sora video generator, shifting focus to new 'Spud' model and intensifying competition with Anthropic's Claude in enterprise AI.",
-      "published_at": "2026-03-27T01:47:09.031046+00:00",
+      "published_at": "2026-03-28T01:26:56.873920+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-claude-gets-remote-control",
       "summary": "Anthropic's Claude gains remote control capabilities, letting you manage tasks from your phone while the AI assistant handles your Mac directly—transforming Claude into a digital employee.",
-      "published_at": "2026-03-27T01:47:11.385929+00:00",
+      "published_at": "2026-03-28T01:27:00.124326+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/elon-musk-terafab-ai-chip-factory",
       "summary": "Elon Musk's Terafab AI chip factory aims to revolutionize compute production, uniting Tesla, SpaceX, and xAI in ambitious chip fabrication innovation.",
-      "published_at": "2026-03-27T01:47:13.091687+00:00",
+      "published_at": "2026-03-28T01:27:01.992474+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/how-81k-people-really-feel-about-ai",
       "summary": "Discover what 81K people really think about AI: Anthropic's groundbreaking survey reveals nuanced public sentiment beyond simple hope or fear, spanning 70 languages worldwide.",
-      "published_at": "2026-03-27T01:47:14.783628+00:00",
+      "published_at": "2026-03-28T01:27:03.893179+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-bets-on-vibe-design-with-stitch",
       "summary": "Google's Stitch brings 'vibe design' to UI creation with voice editing and agentic capabilities, promising to revolutionize design workflows like vibe coding did for development.",
-      "published_at": "2026-03-27T01:47:16.708215+00:00",
+      "published_at": "2026-03-28T01:27:05.897466+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/simo-sounds-alarm-on-openai-side-quests",
       "summary": "PLUS: Generate a cohesive e-commerce product shoot",
-      "published_at": "2026-03-27T01:47:18.467900+00:00",
+      "published_at": "2026-03-28T01:27:07.888222+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/nvidia-big-ai-day-at-gtc",
       "summary": "Nvidia's GTC showcases AI breakthroughs with Nemoclaw security stack and next-gen chips. Plus: learn to use Grok for free automated research.",
-      "published_at": "2026-03-27T01:47:20.282300+00:00",
+      "published_at": "2026-03-28T01:27:09.860946+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/musk-takes-xai-into-a-full-rebuild",
       "summary": "Musk rebuilds xAI from the ground up as co-founders exit, signaling major restructuring amid plans for a massive public listing and talent raids from top AI startups.",
-      "published_at": "2026-03-27T01:47:22.226354+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "045ea02d4e1c1dd9",
-      "title": "Google brings Gemini to the roadPLUS: Automate Gmail with Google Workspace StudioZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/google-brings-gemini-to-the-road",
-      "summary": "Google brings Gemini to Maps for hands-free navigation. Plus: automate Gmail with Google Workspace Studio. Discover how AI transforms your daily commute.",
-      "published_at": "2026-03-27T01:47:23.923931+00:00",
+      "published_at": "2026-03-28T01:27:11.899084+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

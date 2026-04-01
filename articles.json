@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T01:48:38.913457Z",
+  "last_updated": "2026-04-01T01:55:54.571329Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,21 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-03-31T01:48:03.491022+00:00",
+      "published_at": "2026-04-01T01:55:21.688324+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "ecb2834b17d2b8cb",
+      "title": "One breach after another",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/one-breach-after-another",
+      "summary": "separate and sandbox your agent's access",
+      "published_at": "2026-04-01T01:55:22.780243+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/a-peek-inside-cli-tools",
       "summary": "No more funny videos at OpenAI",
-      "published_at": "2026-03-31T01:48:04.860848+00:00",
+      "published_at": "2026-04-01T01:55:23.988580+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/agents-should-interview-you",
       "summary": "is claude trying to become openclaw?",
-      "published_at": "2026-03-31T01:48:05.982620+00:00",
+      "published_at": "2026-04-01T01:55:25.106768+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/bens-builds-2",
       "summary": "my stack, instructions, tools and skills",
-      "published_at": "2026-03-31T01:48:07.202452+00:00",
+      "published_at": "2026-04-01T01:55:26.216388+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/what-makes-a-good-agentsmd",
       "summary": "run Claude Cowork from your mobile phone",
-      "published_at": "2026-03-31T01:48:08.335808+00:00",
+      "published_at": "2026-04-01T01:55:27.298458+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/nvidia-loves-openclaw",
       "summary": "the era of vibe-coding is over",
-      "published_at": "2026-03-31T01:48:09.456235+00:00",
+      "published_at": "2026-04-01T01:55:28.536180+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/this-is-a-new-format-id-like-to-try",
       "summary": "do you prefer this or the original?",
-      "published_at": "2026-03-31T01:48:10.583916+00:00",
+      "published_at": "2026-04-01T01:55:29.656556+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/how-and-what-im-building-this-week",
       "summary": "my stack, instructions, tools and skills",
-      "published_at": "2026-03-31T01:48:11.786965+00:00",
+      "published_at": "2026-04-01T01:55:30.881930+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +133,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/make-any-media-searchable",
       "summary": "web access CLIs, sandboxes and another openclaw clone",
-      "published_at": "2026-03-31T01:48:12.886415+00:00",
+      "published_at": "2026-04-01T01:55:32.080431+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -128,16 +142,16 @@
       }
     },
     {
-      "id": "1e38eaaf9753f70c",
-      "title": "Just use GPT-5.4 xhigh",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/just-use-gpt-54-xhigh",
-      "summary": "workshop recording inside",
-      "published_at": "2026-03-31T01:48:13.994232+00:00",
+      "id": "fb1052609467e7f1",
+      "title": "OpenAI's $1B Disney blindsidePLUS: Build a travel itinerary with Perplexity ComputerZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/openai-1b-disney-blindside",
+      "summary": "OpenAI's $1B Disney blindside: Sora shutdown shocks the AI video world. Plus, build travel itineraries with Perplexity Computer in this week's AI update.",
+      "published_at": "2026-04-01T01:55:36.785319+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
-        "author": "Ben Tossell",
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-secret-mythos-model",
       "summary": "Anthropic's secret 'Mythos' model leaks via CMS error, revealing an advanced AI tier with cybersecurity capabilities surpassing current frontier models.",
-      "published_at": "2026-03-31T01:48:18.856641+00:00",
+      "published_at": "2026-04-01T01:55:38.401825+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/an-exclusive-q-a-with-alibaba-com-s-kuo-zhang",
       "summary": "How Accio Work is turning agent teams into operators across real-world workflows.",
-      "published_at": "2026-03-31T01:48:21.100864+00:00",
+      "published_at": "2026-04-01T01:55:40.127235+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/meta-new-open-source-brain-ai",
       "summary": "Meta's open-source brain AI predicts neural activity from visual and audio stimuli, advancing neuroscience research while raising questions about AI and advertising implications.",
-      "published_at": "2026-03-31T01:48:23.106694+00:00",
+      "published_at": "2026-04-01T01:55:41.842067+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/arc-agi-3-resets-frontier-ai-scoreboard",
       "summary": "ARC-AGI-3 resets the AI frontier scoreboard as top models struggle with only 1% scores, revealing how far we still are from AGI breakthroughs.",
-      "published_at": "2026-03-31T01:48:25.090050+00:00",
+      "published_at": "2026-04-01T01:55:43.546685+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-sora-gets-the-axe",
       "summary": "OpenAI discontinues Sora video generator, shifting focus to new 'Spud' model and intensifying competition with Anthropic's Claude in enterprise AI.",
-      "published_at": "2026-03-31T01:48:27.028440+00:00",
+      "published_at": "2026-04-01T01:55:45.384587+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-claude-gets-remote-control",
       "summary": "Anthropic's Claude gains remote control capabilities, letting you manage tasks from your phone while the AI assistant handles your Mac directly—transforming Claude into a digital employee.",
-      "published_at": "2026-03-31T01:48:29.234594+00:00",
+      "published_at": "2026-04-01T01:55:46.976102+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/elon-musk-terafab-ai-chip-factory",
       "summary": "Elon Musk's Terafab AI chip factory aims to revolutionize compute production, uniting Tesla, SpaceX, and xAI in ambitious chip fabrication innovation.",
-      "published_at": "2026-03-31T01:48:31.423254+00:00",
+      "published_at": "2026-04-01T01:55:49.674900+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/how-81k-people-really-feel-about-ai",
       "summary": "Discover what 81K people really think about AI: Anthropic's groundbreaking survey reveals nuanced public sentiment beyond simple hope or fear, spanning 70 languages worldwide.",
-      "published_at": "2026-03-31T01:48:33.395616+00:00",
+      "published_at": "2026-04-01T01:55:51.388654+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-bets-on-vibe-design-with-stitch",
       "summary": "Google's Stitch brings 'vibe design' to UI creation with voice editing and agentic capabilities, promising to revolutionize design workflows like vibe coding did for development.",
-      "published_at": "2026-03-31T01:48:35.388998+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "f5c9b8b90ebbed60",
-      "title": "Simo sounds alarm on OpenAI's 'side quests'PLUS: Generate a cohesive e-commerce product shootZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/simo-sounds-alarm-on-openai-side-quests",
-      "summary": "PLUS: Generate a cohesive e-commerce product shoot",
-      "published_at": "2026-03-31T01:48:37.402975+00:00",
+      "published_at": "2026-04-01T01:55:53.209712+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

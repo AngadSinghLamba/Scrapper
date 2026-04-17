@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T02:00:00.911002Z",
+  "last_updated": "2026-04-17T01:55:55.860599Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,21 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-04-16T01:59:29.545120+00:00",
+      "published_at": "2026-04-17T01:55:20.707506+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "de74b60dc4654c61",
+      "title": "My cheatsheet for a clean context",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/my-cheatsheet-for-a-clean-context",
+      "summary": "fast intelligence, managed infra and desktop apps",
+      "published_at": "2026-04-17T01:55:21.953057+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/big-lab-leaks",
       "summary": "Headless software",
-      "published_at": "2026-04-16T01:59:30.638987+00:00",
+      "published_at": "2026-04-17T01:55:23.122076+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/anthropic-built-a-model-too-risky",
       "summary": "and Meta makes an unexpected entry",
-      "published_at": "2026-04-16T01:59:31.728851+00:00",
+      "published_at": "2026-04-17T01:55:24.249155+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/no-claude-for-claws",
       "summary": "in 3 months, Anthropic added $6B ARR",
-      "published_at": "2026-04-16T01:59:32.859383+00:00",
+      "published_at": "2026-04-17T01:55:25.599067+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/inside-the-leaked-claude-code-files",
       "summary": "Docs as files, a new markdown editor and April fools",
-      "published_at": "2026-04-16T01:59:33.961108+00:00",
+      "published_at": "2026-04-17T01:55:26.718466+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/one-breach-after-another",
       "summary": "separate and sandbox your agent's access",
-      "published_at": "2026-04-16T01:59:35.059768+00:00",
+      "published_at": "2026-04-17T01:55:27.855915+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/a-peek-inside-cli-tools",
       "summary": "No more funny videos at OpenAI",
-      "published_at": "2026-04-16T01:59:36.158550+00:00",
+      "published_at": "2026-04-17T01:55:29.114816+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/agents-should-interview-you",
       "summary": "is claude trying to become openclaw?",
-      "published_at": "2026-04-16T01:59:37.270307+00:00",
+      "published_at": "2026-04-17T01:55:30.293065+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +133,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/bens-builds-2",
       "summary": "my stack, instructions, tools and skills",
-      "published_at": "2026-04-16T01:59:38.388905+00:00",
+      "published_at": "2026-04-17T01:55:31.652492+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -128,16 +142,16 @@
       }
     },
     {
-      "id": "695887fe277813fe",
-      "title": "What makes a good AGENTS.md?",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/what-makes-a-good-agentsmd",
-      "summary": "run Claude Cowork from your mobile phone",
-      "published_at": "2026-04-16T01:59:39.490925+00:00",
+      "id": "a833c7583d61081d",
+      "title": "Allbirds ditches sneakers for AI computePLUS: Audit your business with Notion's built-in Claude agentsZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/allbirds-ditches-sneakers-for-ai-compute",
+      "summary": "Allbirds pivots from sneakers to AI compute with $50M deal, sparking a 600% stock surge and the year's wildest AI transformation story.",
+      "published_at": "2026-04-17T01:55:36.629981+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
-        "author": "Ben Tossell",
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-gpt-5-4-cyber-rejects-mythos-playbook",
       "summary": "OpenAI's GPT-5.4-Cyber challenges Anthropic's restricted Mythos approach, democratizing AI security by enabling broader defender access. Plus: automate Chrome with Gemini.",
-      "published_at": "2026-04-16T01:59:42.761202+00:00",
+      "published_at": "2026-04-17T01:55:38.475713+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/what-happens-when-ai-runs-a-retail-store",
       "summary": "AI takes the helm of a real retail store with $100k budget and full autonomy, revealing what happens when algorithms run operations and hire staff in San Francisco.",
-      "published_at": "2026-04-16T01:59:44.624054+00:00",
+      "published_at": "2026-04-17T01:55:40.379895+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anti-ai-anger-hits-sam-altman-front-door",
       "summary": "Anti-AI anger escalates as protesters target Sam Altman's home amid growing fears about AI's societal impact and rapid technological changes reshaping the future.",
-      "published_at": "2026-04-16T01:59:46.732403+00:00",
+      "published_at": "2026-04-17T01:55:42.321387+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/perplexity-agent-pivot-is-on-the-money",
       "summary": "Perplexity's agent pivot targets personal finance and taxes, signaling a shift beyond search with 50% monthly revenue growth and expanding AI capabilities.",
-      "published_at": "2026-04-16T01:59:48.586783+00:00",
+      "published_at": "2026-04-17T01:55:44.335962+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/meta-superintelligence-labs-ships-its-first-model",
       "summary": "Meta Superintelligence Labs releases its first AI model, positioning the tech giant back in the competitive race with powerful new capabilities and resources.",
-      "published_at": "2026-04-16T01:59:50.332856+00:00",
+      "published_at": "2026-04-17T01:55:46.394500+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-new-ai-is-too-powerful-for-the-world",
       "summary": "Anthropic's new Claude Mythos AI is too powerful for public release, sparking debate about AI safety as it's deployed through a defensive cybersecurity coalition instead.",
-      "published_at": "2026-04-16T01:59:52.141911+00:00",
+      "published_at": "2026-04-17T01:55:48.241571+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/sam-altman-new-social-contract-for-ai",
       "summary": "Sam Altman proposes a \"social contract\" for AI: robot taxes, wealth funds, and a 4-day workweek to prepare society for unstoppable artificial intelligence.",
-      "published_at": "2026-04-16T01:59:53.881051+00:00",
+      "published_at": "2026-04-17T01:55:50.107329+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-tells-openclaw-users-to-pay-up",
       "summary": "Anthropic cuts off OpenClaw users from Claude subscriptions, escalating pricing dispute with third-party agent platforms amid fierce AI competition.",
-      "published_at": "2026-04-16T01:59:55.625665+00:00",
+      "published_at": "2026-04-17T01:55:52.072342+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-just-made-the-billion-dollar-solo-founder-real",
       "summary": "AI makes billion-dollar solo founder possible—Matthew Gallagher's AI-powered telehealth startup Medvi hits $1.8B in sales from his LA home.",
-      "published_at": "2026-04-16T01:59:57.573655+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "b98788547e66ec8c",
-      "title": "Dorsey makes the AI case against managersPLUS: Build a productivity tool with ReplitZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/dorsey-makes-the-ai-case-against-managers",
-      "summary": "PLUS: Build a productivity tool with Replit ",
-      "published_at": "2026-04-16T01:59:59.436885+00:00",
+      "published_at": "2026-04-17T01:55:54.080989+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

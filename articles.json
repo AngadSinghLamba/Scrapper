@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T02:26:44.667177Z",
+  "last_updated": "2026-05-09T02:11:11.202168Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,7 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-05-08T02:26:10.289207+00:00",
+      "published_at": "2026-05-09T02:10:38.073770+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +21,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/elon-doubled-limits",
       "summary": "Free ChatGPT got instantly better.",
-      "published_at": "2026-05-08T02:26:11.471456+00:00",
+      "published_at": "2026-05-09T02:10:39.202167+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/codex-is-gaining-steam",
       "summary": "but I wish it had this",
-      "published_at": "2026-05-08T02:26:12.647960+00:00",
+      "published_at": "2026-05-09T02:10:40.428537+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/building-gets-easier",
       "summary": "My tool stack is changing",
-      "published_at": "2026-05-08T02:26:13.784891+00:00",
+      "published_at": "2026-05-09T02:10:41.759130+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/builders",
       "summary": "GPT-5.5 is a good model",
-      "published_at": "2026-05-08T02:26:14.968873+00:00",
+      "published_at": "2026-05-09T02:10:42.883369+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/chatgpts-nano-banana",
       "summary": "testing popular design tools",
-      "published_at": "2026-05-08T02:26:16.278857+00:00",
+      "published_at": "2026-05-09T02:10:43.993566+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/thats-my-designer-claude",
       "summary": "and it comes with a new model, Opus 4.7",
-      "published_at": "2026-05-08T02:26:17.545721+00:00",
+      "published_at": "2026-05-09T02:10:45.100356+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/my-cheatsheet-for-a-clean-context",
       "summary": "fast intelligence, managed infra and desktop apps",
-      "published_at": "2026-05-08T02:26:18.733991+00:00",
+      "published_at": "2026-05-09T02:10:46.407509+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/big-lab-leaks",
       "summary": "Headless software",
-      "published_at": "2026-05-08T02:26:19.887188+00:00",
+      "published_at": "2026-05-09T02:10:47.506141+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -133,11 +133,25 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/anthropic-built-a-model-too-risky",
       "summary": "and Meta makes an unexpected entry",
-      "published_at": "2026-05-08T02:26:21.157490+00:00",
+      "published_at": "2026-05-09T02:10:48.625757+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
         "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "3497824e630668b8",
+      "title": "OpenAI closes reasoning gap in voice agentsPLUS: Test multiple AI models with the same prompt, fastZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/openai-closes-reasoning-gap-in-voice-agents",
+      "summary": "OpenAI's new voice agents feature advanced reasoning and real-time speech capabilities, enabling AI to handle complex tasks at natural conversation speed with improved tool use.",
+      "published_at": "2026-05-09T02:10:51.545222+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-spacex-ai-become-unlikely-compute-partners",
       "summary": "Anthropic and SpaceX's AI unit forge surprising compute partnership, with Musk renting Colossus cluster to rival Claude and reshaping the AI compute landscape.",
-      "published_at": "2026-05-08T02:26:24.955330+00:00",
+      "published_at": "2026-05-09T02:10:53.664145+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-ai-phone-just-jumped-the-line",
       "summary": "OpenAI's AI phone is fast-tracked for 2027, bringing agentic capabilities to your pocket and intensifying competition in AI-powered devices and autonomous assistants.",
-      "published_at": "2026-05-08T02:26:26.883932+00:00",
+      "published_at": "2026-05-09T02:10:55.760184+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-data-centers-head-for-the-ocean",
       "summary": "AI data centers head for the ocean with Panthalassa's $140M floating structures, plus how to replace Siri with a free local AI model. Discover the future of sustainable computing.",
-      "published_at": "2026-05-08T02:26:28.980605+00:00",
+      "published_at": "2026-05-09T02:10:57.638308+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-shows-its-skills-in-the-emergency-room",
       "summary": "AI outperforms emergency room doctors in Harvard study, signaling a major shift in healthcare diagnostics and AI's clinical potential.",
-      "published_at": "2026-05-08T02:26:30.896342+00:00",
+      "published_at": "2026-05-09T02:10:59.682235+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/exclusive-uipath-cmo-michael-atalla-on-ai-at-work",
       "summary": "Why most AI projects fail, what the cloud era teaches us, and what the whole AI shift means for your job",
-      "published_at": "2026-05-08T02:26:33.081108+00:00",
+      "published_at": "2026-05-09T02:11:01.748660+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/the-white-house-rethinks-its-anthropic-fight",
       "summary": "The White House reconsiders its stance on Anthropic as powerful new AI capabilities emerge, raising complex national security questions in the evolving AI regulation landscape.",
-      "published_at": "2026-05-08T02:26:34.982729+00:00",
+      "published_at": "2026-05-09T02:11:03.844405+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/zuckerberg-500m-ai-biology-swing",
       "summary": "Mark Zuckerberg's biohub invests $500M in AI-powered virtual biology to revolutionize disease research and transform cellular-level understanding.",
-      "published_at": "2026-05-08T02:26:36.973633+00:00",
+      "published_at": "2026-05-09T02:11:05.717553+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/the-biggest-ai-trial-ever-kicks-off",
       "summary": "AI's biggest rivalry heads to federal court as Musk's $130B trial against OpenAI kicks off with explosive testimony and private revelations.",
-      "published_at": "2026-05-08T02:26:38.812726+00:00",
+      "published_at": "2026-05-09T02:11:07.736930+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-and-microsoft-new-open-relationship",
       "summary": "OpenAI and Microsoft's evolving partnership opens doors for cloud alternatives like Amazon, while Microsoft maintains a lucrative but less exclusive role in the AI ecosystem.",
-      "published_at": "2026-05-08T02:26:40.901549+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "43f65c13bfa3b907",
-      "title": "DeepSeek resurfaces with cheap, capable V4PLUS: How to do a brand refresh with Claude DesignZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/deepseek-resurfaces-with-cheap-capable-v4",
-      "summary": "DeepSeek V4 emerges as a cheaper, capable AI model alternative. Plus: brand refresh strategies with Claude Design for modern creative workflows.",
-      "published_at": "2026-05-08T02:26:42.951727+00:00",
+      "published_at": "2026-05-09T02:11:09.755238+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

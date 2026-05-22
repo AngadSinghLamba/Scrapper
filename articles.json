@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T02:39:22.801466Z",
+  "last_updated": "2026-05-22T02:41:08.481651Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,21 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-05-21T02:38:51.745439+00:00",
+      "published_at": "2026-05-22T02:40:34.507571+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "e16ad69717c6a954",
+      "title": "Google's take on openclaw",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/googles-take-on-openclaw",
+      "summary": "it's Anthropic's time for the mandate of heaven",
+      "published_at": "2026-05-22T02:40:35.586869+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/can-i-get-my-agents-on-the-phone",
       "summary": "I haven’t used OpenClaw in weeks",
-      "published_at": "2026-05-21T02:38:52.817175+00:00",
+      "published_at": "2026-05-22T02:40:36.655044+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/agents-feedback-tip",
       "summary": "all apps will become dev tools",
-      "published_at": "2026-05-21T02:38:53.882807+00:00",
+      "published_at": "2026-05-22T02:40:37.730318+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/learn-the-system",
       "summary": "are live models making a comeback?",
-      "published_at": "2026-05-21T02:38:54.953614+00:00",
+      "published_at": "2026-05-22T02:40:38.802031+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/bens-builds-3-an-email-app",
       "summary": "They have some challenges 😅",
-      "published_at": "2026-05-21T02:38:56.051251+00:00",
+      "published_at": "2026-05-22T02:40:39.882416+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/elon-doubled-limits",
       "summary": "Free ChatGPT got instantly better.",
-      "published_at": "2026-05-21T02:38:57.118525+00:00",
+      "published_at": "2026-05-22T02:40:40.974366+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/codex-is-gaining-steam",
       "summary": "but I wish it had this",
-      "published_at": "2026-05-21T02:38:58.177543+00:00",
+      "published_at": "2026-05-22T02:40:42.097060+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/building-gets-easier",
       "summary": "My tool stack is changing",
-      "published_at": "2026-05-21T02:38:59.258764+00:00",
+      "published_at": "2026-05-22T02:40:43.172011+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +133,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/builders",
       "summary": "GPT-5.5 is a good model",
-      "published_at": "2026-05-21T02:39:00.327599+00:00",
+      "published_at": "2026-05-22T02:40:44.238333+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -128,16 +142,16 @@
       }
     },
     {
-      "id": "7278307bde4f00a0",
-      "title": "ChatGPT's Nano Banana",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/chatgpts-nano-banana",
-      "summary": "testing popular design tools",
-      "published_at": "2026-05-21T02:39:01.389892+00:00",
+      "id": "96355e657baf6def",
+      "title": "OpenAI cracks an 80-year math beliefPLUS: Audit Claude’s context of your work in 15 minutesZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/openai-cracks-an-80-year-math-belief",
+      "summary": "OpenAI's reasoning model disproves 80-year math theory autonomously, marking a breakthrough in AI-driven scientific discovery and original research capabilities.",
+      "published_at": "2026-05-22T02:40:48.916134+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
-        "author": "Ben Tossell",
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/gemini-busy-agentic-day-at-google-i-o",
       "summary": "Google I/O unveils Gemini as the agentic engine powering all products, with new launches including Omni, Flash, and a revamped Search experience driving AI automation.",
-      "published_at": "2026-05-21T02:39:05.343155+00:00",
+      "published_at": "2026-05-22T02:40:50.551576+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/musk-openai-case-runs-out-of-time",
       "summary": "Musk's OpenAI lawsuit dismissed on technicality as jurors rule in favor of the AI company, ending months of heated legal battle and billion-dollar claims.",
-      "published_at": "2026-05-21T02:39:07.173656+00:00",
+      "published_at": "2026-05-22T02:40:52.221475+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-anger-comes-for-claude-monet",
       "summary": "AI anger comes for Claude (Monet): Artist reveals how people dismiss real artwork when they think AI made it, exposing reflexive hostility toward machine-generated art online.",
-      "published_at": "2026-05-21T02:39:08.956499+00:00",
+      "published_at": "2026-05-22T02:40:54.154645+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-takes-codex-mobile",
       "summary": "OpenAI brings Codex to mobile with ChatGPT app, enabling AI coding agents to run for hours while you manage tasks remotely. Plus, automate marketing assets with ChatGPT Images 2.0.",
-      "published_at": "2026-05-21T02:39:10.692057+00:00",
+      "published_at": "2026-05-22T02:40:55.922725+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/the-enterprise-shift-openai-saw-coming",
       "summary": "Ramp’s latest AI Index just showed Anthropic leading adoption among its paid business users for the first time, a 4x adoption surge since 2025 that may tell the story of why OpenAI has been drastic...",
-      "published_at": "2026-05-21T02:39:12.460476+00:00",
+      "published_at": "2026-05-22T02:40:58.061151+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/android-enters-its-gemini-intelligence-era",
       "summary": "Android enters its Gemini Intelligence era as Google transforms devices with AI-native features, new Gemini system integration, and innovative AI tools reshaping mobile computing.",
-      "published_at": "2026-05-21T02:39:14.266925+00:00",
+      "published_at": "2026-05-22T02:40:59.760372+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/mira-murati-tml-upends-how-humans-work-with-ai",
       "summary": "Mira Murati's TML launches interaction models, revolutionizing human-AI collaboration with real-time voice, video, and text capabilities for seamless workflows.",
-      "published_at": "2026-05-21T02:39:16.052322+00:00",
+      "published_at": "2026-05-22T02:41:01.587619+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-deepmind-powerful-ai-co-mathematician",
       "summary": "Google DeepMind's AI co-mathematician breaks records with agentic approach, solving decades-old math problems and revolutionizing AI reasoning capabilities.",
-      "published_at": "2026-05-21T02:39:17.853257+00:00",
+      "published_at": "2026-05-22T02:41:05.395496+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-closes-reasoning-gap-in-voice-agents",
       "summary": "OpenAI's new voice agents feature advanced reasoning and real-time speech capabilities, enabling AI to handle complex tasks at natural conversation speed with improved tool use.",
-      "published_at": "2026-05-21T02:39:19.674940+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "d570dae6c7ec7302",
-      "title": "Anthropic, SpaceX(AI) become unlikely compute partnersPLUS: Use Claude Design’s slide decks feature like a proZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/anthropic-spacex-ai-become-unlikely-compute-partners",
-      "summary": "Anthropic and SpaceX's AI unit forge surprising compute partnership, with Musk renting Colossus cluster to rival Claude and reshaping the AI compute landscape.",
-      "published_at": "2026-05-21T02:39:21.445464+00:00",
+      "published_at": "2026-05-22T02:41:07.224449+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

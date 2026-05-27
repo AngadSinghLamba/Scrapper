@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T02:34:20.102165Z",
+  "last_updated": "2026-05-27T02:44:18.641145Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,21 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-05-26T02:33:46.967572+00:00",
+      "published_at": "2026-05-27T02:43:42.956657+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "4fb481f154701b27",
+      "title": "Is SaaS dead?",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/is-saas-dead",
+      "summary": "MCP comeback in works",
+      "published_at": "2026-05-27T02:43:44.087098+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/googles-take-on-openclaw",
       "summary": "it's Anthropic's time for the mandate of heaven",
-      "published_at": "2026-05-26T02:33:48.074166+00:00",
+      "published_at": "2026-05-27T02:43:45.240897+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/can-i-get-my-agents-on-the-phone",
       "summary": "I haven’t used OpenClaw in weeks",
-      "published_at": "2026-05-26T02:33:49.211786+00:00",
+      "published_at": "2026-05-27T02:43:46.417933+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/agents-feedback-tip",
       "summary": "all apps will become dev tools",
-      "published_at": "2026-05-26T02:33:50.352408+00:00",
+      "published_at": "2026-05-27T02:43:47.584400+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/learn-the-system",
       "summary": "are live models making a comeback?",
-      "published_at": "2026-05-26T02:33:51.481790+00:00",
+      "published_at": "2026-05-27T02:43:48.863441+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/bens-builds-3-an-email-app",
       "summary": "They have some challenges 😅",
-      "published_at": "2026-05-26T02:33:52.623226+00:00",
+      "published_at": "2026-05-27T02:43:50.013282+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/elon-doubled-limits",
       "summary": "Free ChatGPT got instantly better.",
-      "published_at": "2026-05-26T02:33:53.762765+00:00",
+      "published_at": "2026-05-27T02:43:51.182377+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/codex-is-gaining-steam",
       "summary": "but I wish it had this",
-      "published_at": "2026-05-26T02:33:54.904831+00:00",
+      "published_at": "2026-05-27T02:43:52.296674+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +133,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/building-gets-easier",
       "summary": "My tool stack is changing",
-      "published_at": "2026-05-26T02:33:56.051917+00:00",
+      "published_at": "2026-05-27T02:43:53.462366+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -128,16 +142,16 @@
       }
     },
     {
-      "id": "4d208c3ce7935598",
-      "title": "Builders",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/builders",
-      "summary": "GPT-5.5 is a good model",
-      "published_at": "2026-05-26T02:33:57.321314+00:00",
+      "id": "c5ac29e5e6e08269",
+      "title": "The Pope just weighed in on AIPLUS: Turn any case study into a client-ready videoZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/the-pope-just-weighed-in-on-ai",
+      "summary": "Pope Francis weighs in on AI in landmark encyclical, drawing parallels to the Industrial Revolution and shaping religious perspective on artificial intelligence.",
+      "published_at": "2026-05-27T02:43:57.919378+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
-        "author": "Ben Tossell",
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1",
       "summary": "Google dominates AI math competition, solving 9 problems to OpenAI's 1. Plus: Build an AI secretary that plans your entire day effortlessly.",
-      "published_at": "2026-05-26T02:34:01.174537+00:00",
+      "published_at": "2026-05-27T02:43:59.841369+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/exclusive-interview-sundar-pichai-on-ai-flip-phone-moment",
       "summary": "Sundar Pichai on AI's pivotal moment: Exclusive interview revealing Google's next big leap in artificial intelligence innovation and strategy ahead.",
-      "published_at": "2026-05-26T02:34:03.147975+00:00",
+      "published_at": "2026-05-27T02:44:02.086459+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-cracks-an-80-year-math-belief",
       "summary": "OpenAI's reasoning model disproves 80-year math theory autonomously, marking a breakthrough in AI-driven scientific discovery and original research capabilities.",
-      "published_at": "2026-05-26T02:34:04.890313+00:00",
+      "published_at": "2026-05-27T02:44:04.203825+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/gemini-busy-agentic-day-at-google-i-o",
       "summary": "Google I/O unveils Gemini as the agentic engine powering all products, with new launches including Omni, Flash, and a revamped Search experience driving AI automation.",
-      "published_at": "2026-05-26T02:34:06.728456+00:00",
+      "published_at": "2026-05-27T02:44:06.507485+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/musk-openai-case-runs-out-of-time",
       "summary": "Musk's OpenAI lawsuit dismissed on technicality as jurors rule in favor of the AI company, ending months of heated legal battle and billion-dollar claims.",
-      "published_at": "2026-05-26T02:34:08.703647+00:00",
+      "published_at": "2026-05-27T02:44:08.515727+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-anger-comes-for-claude-monet",
       "summary": "AI anger comes for Claude (Monet): Artist reveals how people dismiss real artwork when they think AI made it, exposing reflexive hostility toward machine-generated art online.",
-      "published_at": "2026-05-26T02:34:10.598589+00:00",
+      "published_at": "2026-05-27T02:44:10.532660+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-takes-codex-mobile",
       "summary": "OpenAI brings Codex to mobile with ChatGPT app, enabling AI coding agents to run for hours while you manage tasks remotely. Plus, automate marketing assets with ChatGPT Images 2.0.",
-      "published_at": "2026-05-26T02:34:12.428706+00:00",
+      "published_at": "2026-05-27T02:44:12.636792+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/the-enterprise-shift-openai-saw-coming",
       "summary": "Ramp’s latest AI Index just showed Anthropic leading adoption among its paid business users for the first time, a 4x adoption surge since 2025 that may tell the story of why OpenAI has been drastic...",
-      "published_at": "2026-05-26T02:34:14.370591+00:00",
+      "published_at": "2026-05-27T02:44:14.803930+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/android-enters-its-gemini-intelligence-era",
       "summary": "Android enters its Gemini Intelligence era as Google transforms devices with AI-native features, new Gemini system integration, and innovative AI tools reshaping mobile computing.",
-      "published_at": "2026-05-26T02:34:16.468292+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "3ac330aa2c252168",
-      "title": "Mira Murati's TML upends how humans work with AIPLUS: Build a YouTube research bot in 15 minutesZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/mira-murati-tml-upends-how-humans-work-with-ai",
-      "summary": "Mira Murati's TML launches interaction models, revolutionizing human-AI collaboration with real-time voice, video, and text capabilities for seamless workflows.",
-      "published_at": "2026-05-26T02:34:18.506590+00:00",
+      "published_at": "2026-05-27T02:44:16.894373+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

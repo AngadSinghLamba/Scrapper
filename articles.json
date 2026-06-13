@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T02:50:13.167102Z",
+  "last_updated": "2026-06-13T02:42:39.663081Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,7 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-06-12T02:49:35.725591+00:00",
+      "published_at": "2026-06-13T02:42:09.716723+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +21,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/new-claude-model-fable",
       "summary": "everyone's building with it.",
-      "published_at": "2026-06-12T02:49:36.899699+00:00",
+      "published_at": "2026-06-13T02:42:10.786988+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/hey-siri-meet-ai",
       "summary": "what's the deal with loops",
-      "published_at": "2026-06-12T02:49:38.104239+00:00",
+      "published_at": "2026-06-13T02:42:11.867546+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/build-tools-to-build-more",
       "summary": "Codex Sites and open models",
-      "published_at": "2026-06-12T02:49:39.282259+00:00",
+      "published_at": "2026-06-13T02:42:12.931211+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/opus-48",
       "summary": "NVIDIA and Microsoft birthed a new computer",
-      "published_at": "2026-06-12T02:49:40.443997+00:00",
+      "published_at": "2026-06-13T02:42:14.014953+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/i-signed-up-for-another-saas",
       "summary": "new software benchmark",
-      "published_at": "2026-06-12T02:49:41.620564+00:00",
+      "published_at": "2026-06-13T02:42:15.104888+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/is-saas-dead",
       "summary": "MCP comeback in works",
-      "published_at": "2026-06-12T02:49:42.739753+00:00",
+      "published_at": "2026-06-13T02:42:16.309134+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/googles-take-on-openclaw",
       "summary": "it's Anthropic's time for the mandate of heaven",
-      "published_at": "2026-06-12T02:49:43.950365+00:00",
+      "published_at": "2026-06-13T02:42:17.403434+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/can-i-get-my-agents-on-the-phone",
       "summary": "I haven’t used OpenClaw in weeks",
-      "published_at": "2026-06-12T02:49:45.148788+00:00",
+      "published_at": "2026-06-13T02:42:18.474730+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -133,11 +133,25 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/agents-feedback-tip",
       "summary": "all apps will become dev tools",
-      "published_at": "2026-06-12T02:49:46.346624+00:00",
+      "published_at": "2026-06-13T02:42:19.549329+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
         "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "bef400184c4b1e71",
+      "title": "Jeff Bezos' $41B 'artificial general engineer'PLUS: Use this X + Openclaw setup to write viral social contentZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/jeff-bezos-41b-artificial-general-engineer",
+      "summary": "Jeff Bezos invests $41B in 'artificial general engineer' startup Prometheus, aiming to revolutionize machine design while arguing AI will create more jobs, not fewer.",
+      "published_at": "2026-06-13T02:42:21.739799+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
       "summary": "Anthropic's CEO proposes AI regulation framework for Washington, while the company advances self-improving models and addresses growing policy concerns in the industry.",
-      "published_at": "2026-06-12T02:49:50.051170+00:00",
+      "published_at": "2026-06-13T02:42:23.644037+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
       "summary": "Anthropic releases Mythos-class AI model Fable, setting new benchmarks and reigniting discussions about powerful AI capabilities and their public availability.",
-      "published_at": "2026-06-12T02:49:52.273207+00:00",
+      "published_at": "2026-06-13T02:42:25.521976+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
       "summary": "Apple's Siri AI overhaul arrives at WWDC26 with on-device intelligence, while OpenAI enters its third phase. Can Apple finally catch up in AI?",
-      "published_at": "2026-06-12T02:49:54.994447+00:00",
+      "published_at": "2026-06-13T02:42:27.481456+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/washington-wants-a-piece-of-openai",
       "summary": "Washington eyes stake in OpenAI amid policy shift. Plus: Deploy agentic AI frameworks to qualify five prospects daily with cutting-edge productivity tools.",
-      "published_at": "2026-06-12T02:49:57.049619+00:00",
+      "published_at": "2026-06-13T02:42:29.243313+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-confronts-the-rsi-clock",
       "summary": "Anthropic reveals AI systems accelerating their own improvement, exploring recursive self-enhancement risks and agentic agent frameworks for productivity gains.",
-      "published_at": "2026-06-12T02:49:59.316791+00:00",
+      "published_at": "2026-06-13T02:42:31.195744+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made",
       "summary": "Ideogram 4.0 and Reve 2.0 revolutionize AI image creation with post-generation editing, typography control, and layout customization—reshaping how creators use AI models.",
-      "published_at": "2026-06-12T02:50:01.569175+00:00",
+      "published_at": "2026-06-13T02:42:32.891761+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/microsoft-paves-its-own-ai-way-at-build",
       "summary": "Microsoft charts its own AI course at Build 2025 with seven new models and agent-first hardware, breaking free from OpenAI dependence and reshaping the future of AI development.",
-      "published_at": "2026-06-12T02:50:05.214195+00:00",
+      "published_at": "2026-06-13T02:42:34.655504+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/nvidia-corners-the-ai-agent-stack",
       "summary": "Nvidia corners the AI agent stack with new ecosystem innovations. Explore how Jensen Huang's latest reveals position the chipmaker to dominate agentic AI across devices, data centers, and beyond.",
-      "published_at": "2026-06-12T02:50:07.384031+00:00",
+      "published_at": "2026-06-13T02:42:36.365569+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-next-dataset-is-your-apartment",
       "summary": "Discover how a startup monetizes apartment cleaning through data collection, revealing AI's next frontier in training datasets and the hidden costs of free services.",
-      "published_at": "2026-06-12T02:50:09.773527+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "609f3ee8335a36ad",
-      "title": "Anthropic just eclipsed OpenAIPLUS: Use Codex to build a functional game in one promptZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/anthropic-just-eclipsed-openai",
-      "summary": "Anthropic eclipses OpenAI with Opus 4.8 breakthrough, crushing benchmarks and closing in on $1T valuation for a potential blockbuster public listing.",
-      "published_at": "2026-06-12T02:50:11.668021+00:00",
+      "published_at": "2026-06-13T02:42:38.180689+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

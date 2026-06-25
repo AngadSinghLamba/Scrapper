@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T02:36:09.798616Z",
+  "last_updated": "2026-06-25T02:37:30.072538Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,7 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-06-24T02:35:36.338868+00:00",
+      "published_at": "2026-06-25T02:36:58.654505+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +21,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/record-a-skill",
       "summary": "5.5-cyber vs mythos",
-      "published_at": "2026-06-24T02:35:37.406424+00:00",
+      "published_at": "2026-06-25T02:36:59.834414+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/the-first-big-exit-in-ai",
       "summary": "little tools for making life easier",
-      "published_at": "2026-06-24T02:35:38.478619+00:00",
+      "published_at": "2026-06-25T02:37:01.011792+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/bye-bye-fable",
       "summary": "another benchmark for real swe work",
-      "published_at": "2026-06-24T02:35:39.572266+00:00",
+      "published_at": "2026-06-25T02:37:02.180138+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/new-claude-model-fable",
       "summary": "everyone's building with it.",
-      "published_at": "2026-06-24T02:35:40.736380+00:00",
+      "published_at": "2026-06-25T02:37:03.364507+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/hey-siri-meet-ai",
       "summary": "what's the deal with loops",
-      "published_at": "2026-06-24T02:35:41.880201+00:00",
+      "published_at": "2026-06-25T02:37:04.527275+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/build-tools-to-build-more",
       "summary": "Codex Sites and open models",
-      "published_at": "2026-06-24T02:35:43.024494+00:00",
+      "published_at": "2026-06-25T02:37:05.693552+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/opus-48",
       "summary": "NVIDIA and Microsoft birthed a new computer",
-      "published_at": "2026-06-24T02:35:44.178758+00:00",
+      "published_at": "2026-06-25T02:37:06.870802+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/i-signed-up-for-another-saas",
       "summary": "new software benchmark",
-      "published_at": "2026-06-24T02:35:45.331766+00:00",
+      "published_at": "2026-06-25T02:37:08.058116+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -133,11 +133,25 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/is-saas-dead",
       "summary": "MCP comeback in works",
-      "published_at": "2026-06-24T02:35:46.486216+00:00",
+      "published_at": "2026-06-25T02:37:09.220519+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
         "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "acbd18f1081c6428",
+      "title": "Meet your new Slack coworker — ClaudePLUS: Build a Clippy-like desktop pet for CodexZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "summary": "PLUS: Build a Clippy-like desktop pet for Codex",
+      "published_at": "2026-06-25T02:37:11.703206+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/sakana-fugu-takes-aim-at-the-frontier",
       "summary": "Sakana's Fugu orchestrates multiple AI models to avoid reliance on single providers, challenging frontier AI leaders with innovative model diversification and safety-focused architecture.",
-      "published_at": "2026-06-24T02:35:49.083106+00:00",
+      "published_at": "2026-06-25T02:37:13.658740+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic",
       "summary": "PLUS: Mine Reddit complaints into business ideas",
-      "published_at": "2026-06-24T02:35:51.430977+00:00",
+      "published_at": "2026-06-25T02:37:15.490906+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan",
       "summary": "PLUS: Save hours on meeting prep with Google Gemini",
-      "published_at": "2026-06-24T02:35:53.351289+00:00",
+      "published_at": "2026-06-25T02:37:17.339243+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/inside-the-deadlock-keeping-mythos-offline",
       "summary": "PLUS: Build and host a custom CRM with Google Antigravity",
-      "published_at": "2026-06-24T02:35:55.401998+00:00",
+      "published_at": "2026-06-25T02:37:19.256034+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/cursor-officially-joins-the-spacex-ai-machine",
       "summary": "PLUS: Conduct better stock research with Perplexity Finance",
-      "published_at": "2026-06-24T02:35:57.578253+00:00",
+      "published_at": "2026-06-25T02:37:21.060300+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/why-100-security-experts-say-the-fable-5-ban-backfires",
       "summary": "PLUS: Vet business opportunities with NotebookLM",
-      "published_at": "2026-06-24T02:35:59.864098+00:00",
+      "published_at": "2026-06-25T02:37:22.782533+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order",
       "summary": "PLUS: Turn any ChatGPT image into an editable Canva design",
-      "published_at": "2026-06-24T02:36:02.050930+00:00",
+      "published_at": "2026-06-25T02:37:24.633748+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/jeff-bezos-41b-artificial-general-engineer",
       "summary": "Jeff Bezos invests $41B in 'artificial general engineer' startup Prometheus, aiming to revolutionize machine design while arguing AI will create more jobs, not fewer.",
-      "published_at": "2026-06-24T02:36:03.966180+00:00",
+      "published_at": "2026-06-25T02:37:26.504840+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
       "summary": "Anthropic's CEO proposes AI regulation framework for Washington, while the company advances self-improving models and addresses growing policy concerns in the industry.",
-      "published_at": "2026-06-24T02:36:06.110797+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "2612088b0725df0d",
-      "title": "Anthropic hands the public Mythos-class AIPLUS: Automate financial research with DexterZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
-      "summary": "Anthropic releases Mythos-class AI model Fable, setting new benchmarks and reigniting discussions about powerful AI capabilities and their public availability.",
-      "published_at": "2026-06-24T02:36:08.557253+00:00",
+      "published_at": "2026-06-25T02:37:28.319160+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T02:12:11.507404Z",
+  "last_updated": "2026-07-10T02:11:40.357473Z",
   "articles": [
     {
       "id": "b957052fcb7b5756",
@@ -7,7 +7,21 @@
       "source": "Ben's Bites",
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "summary": "Why should they have all the fun?",
-      "published_at": "2026-07-09T02:11:38.511222+00:00",
+      "published_at": "2026-07-10T02:11:10.177790+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "c3cfee7f3ac418ea",
+      "title": "Grok x Cursor",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/grok-x-cursor",
+      "summary": "More Fable, GPT-5.6 and new ChatGPT voice",
+      "published_at": "2026-07-10T02:11:11.246842+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +35,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/my-thoughts-on-fable",
       "summary": "what I want from a harness",
-      "published_at": "2026-07-09T02:11:39.667571+00:00",
+      "published_at": "2026-07-10T02:11:12.319179+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +49,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/fable-is-back",
       "summary": "and there's a new sonnet",
-      "published_at": "2026-07-09T02:11:40.768859+00:00",
+      "published_at": "2026-07-10T02:11:13.396085+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +63,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/gpt-56-is-here-but",
       "summary": "plus the insanity of inference",
-      "published_at": "2026-07-09T02:11:41.911780+00:00",
+      "published_at": "2026-07-10T02:11:14.461283+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +77,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/claude-code-in-slack",
       "summary": "a tip to get better UI from Codex",
-      "published_at": "2026-07-09T02:11:43.004401+00:00",
+      "published_at": "2026-07-10T02:11:15.527003+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +91,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/record-a-skill",
       "summary": "5.5-cyber vs mythos",
-      "published_at": "2026-07-09T02:11:44.079353+00:00",
+      "published_at": "2026-07-10T02:11:16.595366+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +105,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/the-first-big-exit-in-ai",
       "summary": "little tools for making life easier",
-      "published_at": "2026-07-09T02:11:45.169358+00:00",
+      "published_at": "2026-07-10T02:11:17.659674+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +119,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/bye-bye-fable",
       "summary": "another benchmark for real swe work",
-      "published_at": "2026-07-09T02:11:46.429372+00:00",
+      "published_at": "2026-07-10T02:11:18.749468+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,7 +133,7 @@
       "source": "Ben's Bites",
       "url": "https://www.bensbites.com/p/new-claude-model-fable",
       "summary": "everyone's building with it.",
-      "published_at": "2026-07-09T02:11:47.711457+00:00",
+      "published_at": "2026-07-10T02:11:19.938906+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -128,16 +142,16 @@
       }
     },
     {
-      "id": "9668522b8c1ed986",
-      "title": "Hey Siri, meet AI",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/hey-siri-meet-ai",
-      "summary": "what's the deal with loops",
-      "published_at": "2026-07-09T02:11:48.785333+00:00",
+      "id": "b5e56833f00abce0",
+      "title": "SpaceXAI, Cursor release the strongest Grok yetPLUS: Add CGI to any video with HiggsfieldZach Mink, +4",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/spacexai-cursor-release-the-strongest-grok-yet",
+      "summary": "SpaceX AI and Cursor release Grok 4.5, their most powerful model yet, delivering exceptional performance and speed for AI enthusiasts and developers.",
+      "published_at": "2026-07-10T02:11:23.544005+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
-        "author": "Ben Tossell",
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +161,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
       "summary": "Meta's latest AI image model climbs leaderboards while AI transforms workplace management. Discover the breakthrough innovations reshaping digital creativity and employee engagement.",
-      "published_at": "2026-07-09T02:11:51.702105+00:00",
+      "published_at": "2026-07-10T02:11:25.364308+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +175,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/the-part-of-claude-s-brain-nobody-built",
       "summary": "PLUS: Build any mobile app idea in 15 minutes with Replit",
-      "published_at": "2026-07-09T02:11:53.654080+00:00",
+      "published_at": "2026-07-10T02:11:27.104154+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +189,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/meta-sizes-up-gpt-5-5-with-watermelon",
       "summary": "Meta's 'Watermelon' AI model rivals GPT-5.5, signaling major progress in frontier AI development and Meta's massive AI investments paying off.",
-      "published_at": "2026-07-09T02:11:55.910168+00:00",
+      "published_at": "2026-07-10T02:11:29.092990+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +203,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/altman-invites-washington-inside-the-ai-industry",
       "summary": "Sam Altman invites Washington inside the AI industry, proposing government regulation and equity stakes. Plus: delegate tasks to Claude in Slack.",
-      "published_at": "2026-07-09T02:11:58.024225+00:00",
+      "published_at": "2026-07-10T02:11:30.686044+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +217,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-fable-returns-worldwide",
       "summary": "Anthropic's Fable 5 returns worldwide after government shutdown, bringing new AI guardrails and closer regulatory oversight of frontier model deployments.",
-      "published_at": "2026-07-09T02:12:00.091192+00:00",
+      "published_at": "2026-07-10T02:11:32.229967+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +231,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/sonnet-5-ships-as-washington-frees-fable",
       "summary": "Sonnet 5 ships as Washington frees Fable. Anthropic's latest model arrives amid buzz around more powerful models returning. Plus, create winning ads with Claude in one command.",
-      "published_at": "2026-07-09T02:12:02.067107+00:00",
+      "published_at": "2026-07-10T02:11:33.919693+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +245,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
       "summary": "Meta's brain-reading AI advances to decode full sentences from brain scans, bringing hope to people with speech loss through non-invasive neural technology.",
-      "published_at": "2026-07-09T02:12:04.078103+00:00",
+      "published_at": "2026-07-10T02:11:35.587181+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +259,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone",
       "summary": "OpenAI's most powerful AI model GPT-5.6 is here with mythical capabilities, but limited access sparks global competition. Plus: AI-powered movie production breakthroughs.",
-      "published_at": "2026-07-09T02:12:05.984460+00:00",
+      "published_at": "2026-07-10T02:11:37.267517+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +273,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
       "summary": "White House urges OpenAI to limit GPT-5.6 release over capability concerns, citing need for rigorous testing before public availability of powerful AI model.",
-      "published_at": "2026-07-09T02:12:08.121668+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "b9a8363f89be3683",
-      "title": "OpenAI's spicy new custom AI chipPLUS: Get a deal on World Cup tickets with AI price trackingZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/openai-spicy-new-custom-ai-chip",
-      "summary": "OpenAI's custom AI chip \"Jalapeño\" delivers state-of-the-art performance, built with AI assistance. Plus: Use AI price tracking to save on World Cup tickets.",
-      "published_at": "2026-07-09T02:12:10.035867+00:00",
+      "published_at": "2026-07-10T02:11:39.014966+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

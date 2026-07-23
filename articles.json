@@ -1,143 +1,17 @@
 {
-  "last_updated": "2026-07-22T01:56:42.220770Z",
+  "last_updated": "2026-07-23T02:04:34.490834Z",
   "articles": [
     {
-      "id": "b957052fcb7b5756",
-      "title": "Community",
-      "source": "Ben's Bites",
-      "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
-      "summary": "Why should they have all the fun?",
-      "published_at": "2026-07-22T01:56:10.466085+00:00",
+      "id": "c8ee062dc1278b3d",
+      "title": "Google’s Gemini lineup has a Pro-sized holePLUS: Sell a high-value AI workflow audit as a consultantZach Mink, +3",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
+      "summary": "Google adds three Gemini models, but the Pro-sized gap remains. Explore what's missing from Google's AI lineup and frontier competition implications.",
+      "published_at": "2026-07-23T02:04:16.556160+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "15939ee0b34b1c0a",
-      "title": "Better design than Fable",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/better-design-than-fable",
-      "summary": "unsolved maths problems vs ai models, who'll win?",
-      "published_at": "2026-07-22T01:56:11.540190+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "e64d4ee288f0144c",
-      "title": "I've got an Inkling",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/ive-got-an-inkling",
-      "summary": "links to read over the weekend",
-      "published_at": "2026-07-22T01:56:12.607468+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "6f54d70f176b23e4",
-      "title": "How to use GPT-5.6",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/how-to-use-gpt-56",
-      "summary": "new desktop app and hosted sites in ChatGPT",
-      "published_at": "2026-07-22T01:56:13.675114+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "c3cfee7f3ac418ea",
-      "title": "Grok x Cursor",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/grok-x-cursor",
-      "summary": "More Fable, GPT-5.6 and new ChatGPT voice",
-      "published_at": "2026-07-22T01:56:14.746567+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "a2684615085e77ca",
-      "title": "My thoughts on Fable",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/my-thoughts-on-fable",
-      "summary": "what I want from a harness",
-      "published_at": "2026-07-22T01:56:15.819954+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "58a4106de55764e6",
-      "title": "Fable is back",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/fable-is-back",
-      "summary": "and there's a new sonnet",
-      "published_at": "2026-07-22T01:56:16.886210+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "62ee7fe9a06014ae",
-      "title": "GPT-5.6 is here but...",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/gpt-56-is-here-but",
-      "summary": "plus the insanity of inference",
-      "published_at": "2026-07-22T01:56:17.952164+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "b48accfa5f926500",
-      "title": "Claude Code in Slack",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/claude-code-in-slack",
-      "summary": "a tip to get better UI from Codex",
-      "published_at": "2026-07-22T01:56:19.019220+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "74831c53f96b50b5",
-      "title": "Record a skill",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/record-a-skill",
-      "summary": "5.5-cyber vs mythos",
-      "published_at": "2026-07-22T01:56:20.086983+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
+        "author": "Zach Mink",
         "newsletter_issue": ""
       }
     },
@@ -147,7 +21,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
       "summary": "Claude solves 87-year-old Jacobian Conjecture with one-line formula, plus master AI note-taking with a \"Captain's Log\" setup. Latest AI breakthroughs inside.",
-      "published_at": "2026-07-22T01:56:24.616361+00:00",
+      "published_at": "2026-07-23T02:04:18.228637+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -161,7 +35,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
       "summary": "Anthropic keeps Fable after subscription reversal as GPT-5.6 and Kimi K3 intensify AI model competition and reshape the landscape.",
-      "published_at": "2026-07-22T01:56:26.567191+00:00",
+      "published_at": "2026-07-23T02:04:19.899116+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -175,7 +49,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
       "summary": "Moonshot's Kimi K3 challenges frontier AI models with benchmark performance rivaling GPT-5 and Claude, offering open-source alternatives at fraction of the cost.",
-      "published_at": "2026-07-22T01:56:28.224345+00:00",
+      "published_at": "2026-07-23T02:04:21.580776+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -189,7 +63,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-new-230-ai-agent-control-pad",
       "summary": "OpenAI launches $230 AI agent control pad to manage intelligent assistants, plus tips for better LinkedIn posts using Manus AI writing tool.",
-      "published_at": "2026-07-22T01:56:30.108182+00:00",
+      "published_at": "2026-07-23T02:04:23.431902+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -203,7 +77,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
       "summary": "Demis Hassabis proposes a U.S.-led AI oversight body to vet frontier models before release, shifting the debate on AI regulation and governance.",
-      "published_at": "2026-07-22T01:56:31.908623+00:00",
+      "published_at": "2026-07-23T02:04:25.430129+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -217,7 +91,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
       "summary": "Economists and researchers warn AI could displace jobs at historic scale within the next decade. Stanford statement urges immediate action to shape AI's economic impact.",
-      "published_at": "2026-07-22T01:56:33.620078+00:00",
+      "published_at": "2026-07-23T02:04:27.116500+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -231,7 +105,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/apple-takes-openai-to-court",
       "summary": "Apple sues OpenAI over stolen hardware secrets from 400+ poached employees, demanding unreleased Jony Ive-designed tech be shelved in landmark tech dispute.",
-      "published_at": "2026-07-22T01:56:35.271753+00:00",
+      "published_at": "2026-07-23T02:04:29.059878+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -245,7 +119,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-sends-gpt-5-6-to-work",
       "summary": "OpenAI launches GPT-5.6 model. Discover how to reduce Fable token usage by 60% with optimized orchestrator setups for AI development.",
-      "published_at": "2026-07-22T01:56:37.130394+00:00",
+      "published_at": "2026-07-23T02:04:31.141773+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -259,21 +133,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/spacexai-cursor-release-the-strongest-grok-yet",
       "summary": "SpaceX AI and Cursor release Grok 4.5, their most powerful model yet, delivering exceptional performance and speed for AI enthusiasts and developers.",
-      "published_at": "2026-07-22T01:56:38.904826+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "1dcf7dc03a997355",
-      "title": "Meta climbs the AI image leaderboardPLUS: Run better 1-on-1s with employees using AIZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/meta-climbs-the-ai-image-leaderboard",
-      "summary": "Meta's latest AI image model climbs leaderboards while AI transforms workplace management. Discover the breakthrough innovations reshaping digital creativity and employee engagement.",
-      "published_at": "2026-07-22T01:56:40.809593+00:00",
+      "published_at": "2026-07-23T02:04:33.179530+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

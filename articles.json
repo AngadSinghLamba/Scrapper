@@ -1,13 +1,41 @@
 {
-  "last_updated": "2026-07-23T02:04:34.490834Z",
+  "last_updated": "2026-07-24T02:00:19.116170Z",
   "articles": [
+    {
+      "id": "8a506ce6f2d12efb",
+      "title": "Caught cheating",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/caught-cheating",
+      "summary": "models, writers, and routers",
+      "published_at": "2026-07-23T13:05:05.637Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "ff4bba4562efe223",
+      "title": "OpenAI’s cyber test escapes the labPLUS: Build your own AI SEO specialist with GumloopZach Mink, +3",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/openai-cyber-test-escapes-the-lab",
+      "summary": "OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI safety.",
+      "published_at": "2026-07-24T01:59:57.766101+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
+        "newsletter_issue": ""
+      }
+    },
     {
       "id": "c8ee062dc1278b3d",
       "title": "Google’s Gemini lineup has a Pro-sized holePLUS: Sell a high-value AI workflow audit as a consultantZach Mink, +3",
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
       "summary": "Google adds three Gemini models, but the Pro-sized gap remains. Explore what's missing from Google's AI lineup and frontier competition implications.",
-      "published_at": "2026-07-23T02:04:16.556160+00:00",
+      "published_at": "2026-07-24T01:59:59.916924+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +49,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
       "summary": "Claude solves 87-year-old Jacobian Conjecture with one-line formula, plus master AI note-taking with a \"Captain's Log\" setup. Latest AI breakthroughs inside.",
-      "published_at": "2026-07-23T02:04:18.228637+00:00",
+      "published_at": "2026-07-24T02:00:02.165564+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +63,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
       "summary": "Anthropic keeps Fable after subscription reversal as GPT-5.6 and Kimi K3 intensify AI model competition and reshape the landscape.",
-      "published_at": "2026-07-23T02:04:19.899116+00:00",
+      "published_at": "2026-07-24T02:00:04.087204+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +77,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
       "summary": "Moonshot's Kimi K3 challenges frontier AI models with benchmark performance rivaling GPT-5 and Claude, offering open-source alternatives at fraction of the cost.",
-      "published_at": "2026-07-23T02:04:21.580776+00:00",
+      "published_at": "2026-07-24T02:00:05.922053+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +91,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-new-230-ai-agent-control-pad",
       "summary": "OpenAI launches $230 AI agent control pad to manage intelligent assistants, plus tips for better LinkedIn posts using Manus AI writing tool.",
-      "published_at": "2026-07-23T02:04:23.431902+00:00",
+      "published_at": "2026-07-24T02:00:07.870510+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +105,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
       "summary": "Demis Hassabis proposes a U.S.-led AI oversight body to vet frontier models before release, shifting the debate on AI regulation and governance.",
-      "published_at": "2026-07-23T02:04:25.430129+00:00",
+      "published_at": "2026-07-24T02:00:10.067367+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +119,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
       "summary": "Economists and researchers warn AI could displace jobs at historic scale within the next decade. Stanford statement urges immediate action to shape AI's economic impact.",
-      "published_at": "2026-07-23T02:04:27.116500+00:00",
+      "published_at": "2026-07-24T02:00:12.483635+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +133,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/apple-takes-openai-to-court",
       "summary": "Apple sues OpenAI over stolen hardware secrets from 400+ poached employees, demanding unreleased Jony Ive-designed tech be shelved in landmark tech dispute.",
-      "published_at": "2026-07-23T02:04:29.059878+00:00",
+      "published_at": "2026-07-24T02:00:15.134934+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,21 +147,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-sends-gpt-5-6-to-work",
       "summary": "OpenAI launches GPT-5.6 model. Discover how to reduce Fable token usage by 60% with optimized orchestrator setups for AI development.",
-      "published_at": "2026-07-23T02:04:31.141773+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "b5e56833f00abce0",
-      "title": "SpaceXAI, Cursor release the strongest Grok yetPLUS: Add CGI to any video with HiggsfieldZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/spacexai-cursor-release-the-strongest-grok-yet",
-      "summary": "SpaceX AI and Cursor release Grok 4.5, their most powerful model yet, delivering exceptional performance and speed for AI enthusiasts and developers.",
-      "published_at": "2026-07-23T02:04:33.179530+00:00",
+      "published_at": "2026-07-24T02:00:17.482736+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

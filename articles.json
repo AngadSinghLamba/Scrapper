@@ -1,13 +1,41 @@
 {
-  "last_updated": "2026-07-28T01:52:04.794268Z",
+  "last_updated": "2026-07-29T01:54:55.450303Z",
   "articles": [
+    {
+      "id": "47b844608866b8a7",
+      "title": "Opus 5 >> Fable 5",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/opus-5-fable-5",
+      "summary": "Codex plus Voice is the new openclaw",
+      "published_at": "2026-07-28T13:10:18.905Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "ed14100d22e8374d",
+      "title": "Moonshot lets history's largest open model loosePLUS: Make precise edits on real product photos with AIZach Mink, +3",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
+      "summary": "Moonshot releases K3, history's largest open model ever, reshaping the AI landscape and sparking crucial debates about open-source AI development and industry standards.",
+      "published_at": "2026-07-29T01:54:35.688880+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
+        "newsletter_issue": ""
+      }
+    },
     {
       "id": "81b32063160ac197",
       "title": "Anthropic's Opus 5 surprisePLUS: Automate tasks with Claude’s ‘Record a Skill’ featureZach Mink, +3",
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-opus-5-surprise",
       "summary": "Anthropic's Opus 5 surprises with stronger benchmarks than expected, outperforming competitors at an unbeatable price. Plus, Claude's new 'Record a Skill' feature automates tasks.",
-      "published_at": "2026-07-28T01:51:41.807932+00:00",
+      "published_at": "2026-07-29T01:54:37.577204+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +49,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
       "summary": "Black Forest Labs' Flux 3 video AI trains robots on production lines while revolutionizing video editing. Discover AI's latest breakthrough in visual intelligence and automation.",
-      "published_at": "2026-07-28T01:51:44.211060+00:00",
+      "published_at": "2026-07-29T01:54:39.455572+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +63,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-cyber-test-escapes-the-lab",
       "summary": "OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI safety.",
-      "published_at": "2026-07-28T01:51:46.942223+00:00",
+      "published_at": "2026-07-29T01:54:41.670464+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +77,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
       "summary": "Google adds three Gemini models, but the Pro-sized gap remains. Explore what's missing from Google's AI lineup and frontier competition implications.",
-      "published_at": "2026-07-28T01:51:49.200378+00:00",
+      "published_at": "2026-07-29T01:54:43.634138+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +91,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
       "summary": "Claude solves 87-year-old Jacobian Conjecture with one-line formula, plus master AI note-taking with a \"Captain's Log\" setup. Latest AI breakthroughs inside.",
-      "published_at": "2026-07-28T01:51:51.962463+00:00",
+      "published_at": "2026-07-29T01:54:45.614951+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +105,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
       "summary": "Anthropic keeps Fable after subscription reversal as GPT-5.6 and Kimi K3 intensify AI model competition and reshape the landscape.",
-      "published_at": "2026-07-28T01:51:54.596918+00:00",
+      "published_at": "2026-07-29T01:54:47.872691+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +119,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
       "summary": "Moonshot's Kimi K3 challenges frontier AI models with benchmark performance rivaling GPT-5 and Claude, offering open-source alternatives at fraction of the cost.",
-      "published_at": "2026-07-28T01:51:56.719292+00:00",
+      "published_at": "2026-07-29T01:54:50.077546+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +133,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-new-230-ai-agent-control-pad",
       "summary": "OpenAI launches $230 AI agent control pad to manage intelligent assistants, plus tips for better LinkedIn posts using Manus AI writing tool.",
-      "published_at": "2026-07-28T01:51:58.993021+00:00",
+      "published_at": "2026-07-29T01:54:52.031549+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,21 +147,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight",
       "summary": "Demis Hassabis proposes a U.S.-led AI oversight body to vet frontier models before release, shifting the debate on AI regulation and governance.",
-      "published_at": "2026-07-28T01:52:00.969940+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "be4720e9e9963316",
-      "title": "Economists, researchers put AI’s job shock on the clockPLUS: Find winning ad angles with Claude and Meta dataZach Mink, +3",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock",
-      "summary": "Economists and researchers warn AI could displace jobs at historic scale within the next decade. Stanford statement urges immediate action to shape AI's economic impact.",
-      "published_at": "2026-07-28T01:52:03.182380+00:00",
+      "published_at": "2026-07-29T01:54:54.191224+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

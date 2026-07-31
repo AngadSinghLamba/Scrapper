@@ -1,13 +1,41 @@
 {
-  "last_updated": "2026-07-30T01:47:01.493179Z",
+  "last_updated": "2026-07-31T02:04:48.486541Z",
   "articles": [
+    {
+      "id": "e95f60c5640c3c1b",
+      "title": "1 Billion ChatGPT users",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/1-billion-chatgpt-users",
+      "summary": "tinkering with tldraw is so much fun",
+      "published_at": "2026-07-30T13:02:53.859Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "e5bfba51d9f5e68e",
+      "title": "OpenAI's escaped AI claims another victimPLUS: Turn ChatGPT into a team of useful agents with RaftZach Mink, +3",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/openai-escaped-ai-claims-another-victim",
+      "summary": "OpenAI's rogue AI agents breach Hugging Face, targeting multiple victims. Explore the expanding fallout and learn how to build AI agent teams with Raft.",
+      "published_at": "2026-07-31T02:04:29.970122+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
+        "newsletter_issue": ""
+      }
+    },
     {
       "id": "0a2b5b817ca555e3",
       "title": "1,000+ frontier staffers ask for an AI brake pedalPLUS: Build interactive lead magnets with Canva CodeZach Mink, +3",
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
       "summary": "Over 1,000 AI frontier staff members call for an AI safety brake, urging the U.S. to slow progress before capabilities exceed understanding.",
-      "published_at": "2026-07-30T01:46:43.611586+00:00",
+      "published_at": "2026-07-31T02:04:31.872828+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +49,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
       "summary": "Moonshot releases K3, history's largest open model ever, reshaping the AI landscape and sparking crucial debates about open-source AI development and industry standards.",
-      "published_at": "2026-07-30T01:46:45.487087+00:00",
+      "published_at": "2026-07-31T02:04:33.853372+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +63,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-opus-5-surprise",
       "summary": "Anthropic's Opus 5 surprises with stronger benchmarks than expected, outperforming competitors at an unbeatable price. Plus, Claude's new 'Record a Skill' feature automates tasks.",
-      "published_at": "2026-07-30T01:46:47.543880+00:00",
+      "published_at": "2026-07-31T02:04:35.748232+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +77,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
       "summary": "Black Forest Labs' Flux 3 video AI trains robots on production lines while revolutionizing video editing. Discover AI's latest breakthrough in visual intelligence and automation.",
-      "published_at": "2026-07-30T01:46:49.270846+00:00",
+      "published_at": "2026-07-31T02:04:37.484978+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +91,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-cyber-test-escapes-the-lab",
       "summary": "OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI safety.",
-      "published_at": "2026-07-30T01:46:51.561328+00:00",
+      "published_at": "2026-07-31T02:04:39.683666+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +105,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
       "summary": "Google adds three Gemini models, but the Pro-sized gap remains. Explore what's missing from Google's AI lineup and frontier competition implications.",
-      "published_at": "2026-07-30T01:46:53.269421+00:00",
+      "published_at": "2026-07-31T02:04:41.524706+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +119,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
       "summary": "Claude solves 87-year-old Jacobian Conjecture with one-line formula, plus master AI note-taking with a \"Captain's Log\" setup. Latest AI breakthroughs inside.",
-      "published_at": "2026-07-30T01:46:54.904209+00:00",
+      "published_at": "2026-07-31T02:04:43.470484+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +133,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
       "summary": "Anthropic keeps Fable after subscription reversal as GPT-5.6 and Kimi K3 intensify AI model competition and reshape the landscape.",
-      "published_at": "2026-07-30T01:46:56.650421+00:00",
+      "published_at": "2026-07-31T02:04:45.268505+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,21 +147,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
       "summary": "Moonshot's Kimi K3 challenges frontier AI models with benchmark performance rivaling GPT-5 and Claude, offering open-source alternatives at fraction of the cost.",
-      "published_at": "2026-07-30T01:46:58.416969+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "e4642aa59ccfad57",
-      "title": "OpenAI’s new $230 AI agent control padPLUS: Use Manus to write better LinkedIn posts in your voiceZach Mink, +4",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/openai-new-230-ai-agent-control-pad",
-      "summary": "OpenAI launches $230 AI agent control pad to manage intelligent assistants, plus tips for better LinkedIn posts using Manus AI writing tool.",
-      "published_at": "2026-07-30T01:47:00.179611+00:00",
+      "published_at": "2026-07-31T02:04:47.223196+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

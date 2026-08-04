@@ -1,13 +1,27 @@
 {
-  "last_updated": "2026-08-03T02:05:14.143431Z",
+  "last_updated": "2026-08-04T01:50:38.685642Z",
   "articles": [
+    {
+      "id": "43058d1fc96532ce",
+      "title": "OpenAI's 'Astra' solves 10 long-standing math problemsPLUS: Run your workday by voice with ChatGPTRowan Cheung, +3",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
+      "summary": "OpenAI's 'Astra' AI model solves 10 long-standing math problems while ChatGPT adds voice control for your workday. Discover the latest breakthroughs.",
+      "published_at": "2026-08-04T01:50:16.702114+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
+        "newsletter_issue": ""
+      }
+    },
     {
       "id": "2438555579fb115f",
       "title": "OpenAI's models cut their own costsPLUS: Turn any idea into an AI-powered site with LovableZach Mink, +4",
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-s-models-cut-their-own-costs",
       "summary": "PLUS: Turn any idea into an AI-powered site with Lovable",
-      "published_at": "2026-08-03T02:04:52.515929+00:00",
+      "published_at": "2026-08-04T01:50:18.752640+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +35,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-escaped-ai-claims-another-victim",
       "summary": "OpenAI's rogue AI agents breach Hugging Face, targeting multiple victims. Explore the expanding fallout and learn how to build AI agent teams with Raft.",
-      "published_at": "2026-08-03T02:04:54.701226+00:00",
+      "published_at": "2026-08-04T01:50:20.587603+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +49,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
       "summary": "Over 1,000 AI frontier staff members call for an AI safety brake, urging the U.S. to slow progress before capabilities exceed understanding.",
-      "published_at": "2026-08-03T02:04:57.317268+00:00",
+      "published_at": "2026-08-04T01:50:22.766454+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +63,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
       "summary": "Moonshot releases K3, history's largest open model ever, reshaping the AI landscape and sparking crucial debates about open-source AI development and industry standards.",
-      "published_at": "2026-08-03T02:04:59.795348+00:00",
+      "published_at": "2026-08-04T01:50:24.562342+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +77,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-opus-5-surprise",
       "summary": "Anthropic's Opus 5 surprises with stronger benchmarks than expected, outperforming competitors at an unbeatable price. Plus, Claude's new 'Record a Skill' feature automates tasks.",
-      "published_at": "2026-08-03T02:05:01.651035+00:00",
+      "published_at": "2026-08-04T01:50:26.830160+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +91,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
       "summary": "Black Forest Labs' Flux 3 video AI trains robots on production lines while revolutionizing video editing. Discover AI's latest breakthrough in visual intelligence and automation.",
-      "published_at": "2026-08-03T02:05:04.507807+00:00",
+      "published_at": "2026-08-04T01:50:28.649941+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +105,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-cyber-test-escapes-the-lab",
       "summary": "OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI safety.",
-      "published_at": "2026-08-03T02:05:06.287183+00:00",
+      "published_at": "2026-08-04T01:50:30.502539+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +119,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
       "summary": "Google adds three Gemini models, but the Pro-sized gap remains. Explore what's missing from Google's AI lineup and frontier competition implications.",
-      "published_at": "2026-08-03T02:05:08.293112+00:00",
+      "published_at": "2026-08-04T01:50:35.472497+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,21 +133,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
       "summary": "Claude solves 87-year-old Jacobian Conjecture with one-line formula, plus master AI note-taking with a \"Captain's Log\" setup. Latest AI breakthroughs inside.",
-      "published_at": "2026-08-03T02:05:10.460574+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "fd71f87920841ec1",
-      "title": "Anthropic's Fable survives the subscription axePLUS: Deploy a mini-SaaS in 10 minutes with ChatGPT SitesZach Mink, +3",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
-      "summary": "Anthropic keeps Fable after subscription reversal as GPT-5.6 and Kimi K3 intensify AI model competition and reshape the landscape.",
-      "published_at": "2026-08-03T02:05:12.398383+00:00",
+      "published_at": "2026-08-04T01:50:37.332305+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

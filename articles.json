@@ -1,13 +1,41 @@
 {
-  "last_updated": "2026-08-04T01:50:38.685642Z",
+  "last_updated": "2026-08-05T01:51:14.526132Z",
   "articles": [
+    {
+      "id": "436b91bfb42a22bb",
+      "title": "What my agent knows about me",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/what-my-agent-knows-about-me",
+      "summary": "80% cheaper GPT",
+      "published_at": "2026-08-04T13:10:31.864Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "e0df1aebefcaf5de",
+      "title": "AI giants head to the White House to discuss safetyPLUS: Build a project room where humans and agents workRowan Cheung, +3",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/ai-giants-head-to-the-white-house-to-discuss-safety",
+      "summary": "AI giants OpenAI and Anthropic head to White House to discuss AI safety framework and frontier model security testing with Trump officials.",
+      "published_at": "2026-08-05T01:50:56.728935+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
+        "newsletter_issue": ""
+      }
+    },
     {
       "id": "43058d1fc96532ce",
       "title": "OpenAI's 'Astra' solves 10 long-standing math problemsPLUS: Run your workday by voice with ChatGPTRowan Cheung, +3",
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
       "summary": "OpenAI's 'Astra' AI model solves 10 long-standing math problems while ChatGPT adds voice control for your workday. Discover the latest breakthroughs.",
-      "published_at": "2026-08-04T01:50:16.702114+00:00",
+      "published_at": "2026-08-05T01:50:58.541144+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +49,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-s-models-cut-their-own-costs",
       "summary": "PLUS: Turn any idea into an AI-powered site with Lovable",
-      "published_at": "2026-08-04T01:50:18.752640+00:00",
+      "published_at": "2026-08-05T01:51:00.221515+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +63,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-escaped-ai-claims-another-victim",
       "summary": "OpenAI's rogue AI agents breach Hugging Face, targeting multiple victims. Explore the expanding fallout and learn how to build AI agent teams with Raft.",
-      "published_at": "2026-08-04T01:50:20.587603+00:00",
+      "published_at": "2026-08-05T01:51:01.899943+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +77,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
       "summary": "Over 1,000 AI frontier staff members call for an AI safety brake, urging the U.S. to slow progress before capabilities exceed understanding.",
-      "published_at": "2026-08-04T01:50:22.766454+00:00",
+      "published_at": "2026-08-05T01:51:03.684503+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +91,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
       "summary": "Moonshot releases K3, history's largest open model ever, reshaping the AI landscape and sparking crucial debates about open-source AI development and industry standards.",
-      "published_at": "2026-08-04T01:50:24.562342+00:00",
+      "published_at": "2026-08-05T01:51:05.590128+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +105,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-opus-5-surprise",
       "summary": "Anthropic's Opus 5 surprises with stronger benchmarks than expected, outperforming competitors at an unbeatable price. Plus, Claude's new 'Record a Skill' feature automates tasks.",
-      "published_at": "2026-08-04T01:50:26.830160+00:00",
+      "published_at": "2026-08-05T01:51:07.526488+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +119,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
       "summary": "Black Forest Labs' Flux 3 video AI trains robots on production lines while revolutionizing video editing. Discover AI's latest breakthrough in visual intelligence and automation.",
-      "published_at": "2026-08-04T01:50:28.649941+00:00",
+      "published_at": "2026-08-05T01:51:09.764801+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +133,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-cyber-test-escapes-the-lab",
       "summary": "OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI safety.",
-      "published_at": "2026-08-04T01:50:30.502539+00:00",
+      "published_at": "2026-08-05T01:51:11.408732+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,21 +147,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
       "summary": "Google adds three Gemini models, but the Pro-sized gap remains. Explore what's missing from Google's AI lineup and frontier competition implications.",
-      "published_at": "2026-08-04T01:50:35.472497+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "be3c911d38a3b78c",
-      "title": "Claude disproves an 87-year-old math problemPLUS: Make AI note-taking easier with a “Captain’s Log” setupZach Mink, +3",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
-      "summary": "Claude solves 87-year-old Jacobian Conjecture with one-line formula, plus master AI note-taking with a \"Captain's Log\" setup. Latest AI breakthroughs inside.",
-      "published_at": "2026-08-04T01:50:37.332305+00:00",
+      "published_at": "2026-08-05T01:51:13.235637+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

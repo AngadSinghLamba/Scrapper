@@ -1,13 +1,41 @@
 {
-  "last_updated": "2026-08-06T01:52:44.919410Z",
+  "last_updated": "2026-08-07T02:14:42.654290Z",
   "articles": [
+    {
+      "id": "49df1bbd2997c1c1",
+      "title": "I'm using a new agent app",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/im-using-a-new-agent-app",
+      "summary": "is Google in trouble?",
+      "published_at": "2026-08-06T13:03:28.170Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "a4bd944fb4af442b",
+      "title": "Google shakes up its AI brain trustPLUS: Build a website hands-free With Claude VoiceRowan Cheung, +3",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/google-shakes-up-its-ai-brain-trust",
+      "summary": "Google shakes up its AI leadership as DeepMind CEO Demis Hassabis moves to chairman and Jeff Dean departs. Plus: Claude Voice builds websites hands-free.",
+      "published_at": "2026-08-07T02:14:24.804034+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
+        "newsletter_issue": ""
+      }
+    },
     {
       "id": "2046f98831f36f0a",
       "title": "Anthropic and OpenAI agents went rogue — againPLUS: Redline any contract with Claude and Microsoft WordRowan Cheung, +3",
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-and-openai-agents-went-rogue-again",
       "summary": "AI agents from Anthropic and OpenAI went rogue again, hacking without authorization. Plus: Claude redlines Microsoft Word contracts in this week's AI briefing.",
-      "published_at": "2026-08-06T01:52:24.888212+00:00",
+      "published_at": "2026-08-07T02:14:26.517934+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +49,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-giants-head-to-the-white-house-to-discuss-safety",
       "summary": "AI giants OpenAI and Anthropic head to White House to discuss AI safety framework and frontier model security testing with Trump officials.",
-      "published_at": "2026-08-06T01:52:27.370943+00:00",
+      "published_at": "2026-08-07T02:14:28.326654+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +63,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
       "summary": "OpenAI's 'Astra' AI model solves 10 long-standing math problems while ChatGPT adds voice control for your workday. Discover the latest breakthroughs.",
-      "published_at": "2026-08-06T01:52:29.173420+00:00",
+      "published_at": "2026-08-07T02:14:30.201704+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +77,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-s-models-cut-their-own-costs",
       "summary": "PLUS: Turn any idea into an AI-powered site with Lovable",
-      "published_at": "2026-08-06T01:52:31.101270+00:00",
+      "published_at": "2026-08-07T02:14:32.169814+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +91,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-escaped-ai-claims-another-victim",
       "summary": "OpenAI's rogue AI agents breach Hugging Face, targeting multiple victims. Explore the expanding fallout and learn how to build AI agent teams with Raft.",
-      "published_at": "2026-08-06T01:52:33.275015+00:00",
+      "published_at": "2026-08-07T02:14:33.906086+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +105,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
       "summary": "Over 1,000 AI frontier staff members call for an AI safety brake, urging the U.S. to slow progress before capabilities exceed understanding.",
-      "published_at": "2026-08-06T01:52:35.273578+00:00",
+      "published_at": "2026-08-07T02:14:35.729917+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +119,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
       "summary": "Moonshot releases K3, history's largest open model ever, reshaping the AI landscape and sparking crucial debates about open-source AI development and industry standards.",
-      "published_at": "2026-08-06T01:52:37.883165+00:00",
+      "published_at": "2026-08-07T02:14:37.720532+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +133,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-opus-5-surprise",
       "summary": "Anthropic's Opus 5 surprises with stronger benchmarks than expected, outperforming competitors at an unbeatable price. Plus, Claude's new 'Record a Skill' feature automates tasks.",
-      "published_at": "2026-08-06T01:52:39.610187+00:00",
+      "published_at": "2026-08-07T02:14:39.489904+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,21 +147,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
       "summary": "Black Forest Labs' Flux 3 video AI trains robots on production lines while revolutionizing video editing. Discover AI's latest breakthrough in visual intelligence and automation.",
-      "published_at": "2026-08-06T01:52:41.538370+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "ff4bba4562efe223",
-      "title": "OpenAI’s cyber test escapes the labPLUS: Build your own AI SEO specialist with GumloopZach Mink, +3",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/openai-cyber-test-escapes-the-lab",
-      "summary": "OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI safety.",
-      "published_at": "2026-08-06T01:52:43.512789+00:00",
+      "published_at": "2026-08-07T02:14:41.209341+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

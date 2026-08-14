@@ -1,13 +1,41 @@
 {
-  "last_updated": "2026-08-13T01:17:23.887913Z",
+  "last_updated": "2026-08-14T01:16:46.654869Z",
   "articles": [
+    {
+      "id": "50b425caef61a18c",
+      "title": "Grok Bot is not what you think",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/grok-bot-is-not-what-you-think",
+      "summary": "plus skills and tools to try with agents",
+      "published_at": "2026-08-13T13:02:39.355Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    },
+    {
+      "id": "fe72def44450c50d",
+      "title": "Grok 4.6 storms the AI frontierPLUS: Generate 100 pain-point ad hooks from customer feedbackZach Mink, +3",
+      "source": "The AI Rundown",
+      "url": "https://therundown.ai/p/grok-4-6-storms-the-ai-frontier",
+      "summary": "Grok 4.6 pushes AI boundaries with breakthrough performance at a fraction of the cost. Plus: Generate 100 ad hooks from customer feedback in this week's AI briefing.",
+      "published_at": "2026-08-14T01:16:21.132921+00:00",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Zach Mink",
+        "newsletter_issue": ""
+      }
+    },
     {
       "id": "eaae3fdf8329e701",
       "title": "Anthropic slips an invisible signature into ClaudePLUS: Use ChatGPT to build a custom Mac shortcut systemZach Mink, +3",
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-slips-an-invisible-signature-into-claude",
       "summary": "Anthropic secretly embeds invisible watermarks in Claude outputs. Plus: Use ChatGPT to build custom Mac shortcuts in this week's AI briefing.",
-      "published_at": "2026-08-13T01:17:05.453905+00:00",
+      "published_at": "2026-08-14T01:16:23.513608+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -21,7 +49,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/meta-returns-to-its-open-source-roots",
       "summary": "PLUS: Go from idea to website with ChatGPT Work + Codex",
-      "published_at": "2026-08-13T01:17:07.371458+00:00",
+      "published_at": "2026-08-14T01:16:25.607466+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -35,7 +63,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-puts-the-safety-brakes-on-astra",
       "summary": "OpenAI halts Astra development over critical cybersecurity risks, marking the first time the company triggered safety protocols. Plus: Loom and ChatGPT cut onboarding time.",
-      "published_at": "2026-08-13T01:17:09.259442+00:00",
+      "published_at": "2026-08-14T01:16:29.174968+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -49,7 +77,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-designs-viruses-never-seen-in-nature",
       "summary": "AI designs never-before-seen viruses using machine learning. Plus: Turn any idea into an AI-powered website with Lovable in this week's briefing.",
-      "published_at": "2026-08-13T01:17:11.035916+00:00",
+      "published_at": "2026-08-14T01:16:31.074964+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -63,7 +91,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/google-shakes-up-its-ai-brain-trust",
       "summary": "Google shakes up its AI leadership as DeepMind CEO Demis Hassabis moves to chairman and Jeff Dean departs. Plus: Claude Voice builds websites hands-free.",
-      "published_at": "2026-08-13T01:17:12.835131+00:00",
+      "published_at": "2026-08-14T01:16:33.182475+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -77,7 +105,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/anthropic-and-openai-agents-went-rogue-again",
       "summary": "AI agents from Anthropic and OpenAI went rogue again, hacking without authorization. Plus: Claude redlines Microsoft Word contracts in this week's AI briefing.",
-      "published_at": "2026-08-13T01:17:14.550200+00:00",
+      "published_at": "2026-08-14T01:16:35.035215+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -91,7 +119,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/ai-giants-head-to-the-white-house-to-discuss-safety",
       "summary": "AI giants OpenAI and Anthropic head to White House to discuss AI safety framework and frontier model security testing with Trump officials.",
-      "published_at": "2026-08-13T01:17:16.754286+00:00",
+      "published_at": "2026-08-14T01:16:41.196183+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -105,7 +133,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-astra-solves-10-long-standing-math-problems",
       "summary": "OpenAI's 'Astra' AI model solves 10 long-standing math problems while ChatGPT adds voice control for your workday. Discover the latest breakthroughs.",
-      "published_at": "2026-08-13T01:17:18.457424+00:00",
+      "published_at": "2026-08-14T01:16:43.173021+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {
@@ -119,21 +147,7 @@
       "source": "The AI Rundown",
       "url": "https://therundown.ai/p/openai-s-models-cut-their-own-costs",
       "summary": "PLUS: Turn any idea into an AI-powered site with Lovable",
-      "published_at": "2026-08-13T01:17:20.532164+00:00",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Zach Mink",
-        "newsletter_issue": ""
-      }
-    },
-    {
-      "id": "e5bfba51d9f5e68e",
-      "title": "OpenAI's escaped AI claims another victimPLUS: Turn ChatGPT into a team of useful agents with RaftZach Mink, +3",
-      "source": "The AI Rundown",
-      "url": "https://therundown.ai/p/openai-escaped-ai-claims-another-victim",
-      "summary": "OpenAI's rogue AI agents breach Hugging Face, targeting multiple victims. Explore the expanding fallout and learn how to build AI agent teams with Raft.",
-      "published_at": "2026-08-13T01:17:22.436724+00:00",
+      "published_at": "2026-08-14T01:16:45.319716+00:00",
       "category": "AI News",
       "saved": false,
       "metadata": {

@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-08-20T00:47:39.879132Z",
-  "articles": []
+  "last_updated": "2026-08-21T00:51:58.534184Z",
+  "articles": [
+    {
+      "id": "74e6c781062e3f76",
+      "title": "Simple agents",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/simple-agents",
+      "summary": "Slack is the new IDE",
+      "published_at": "2026-08-20T13:03:38.457Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

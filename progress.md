@@ -1226,3 +1226,9 @@
 - Filtered (24h): 0 articles
 - Total in storage: 0 articles
 - Status: ✅ All scrapers successful
+
+## [2026-08-25 00:50:33 UTC] Scraper Run
+- Fetched: 10 articles
+- Filtered (24h): 0 articles
+- Total in storage: 0 articles
+- Status: ✅ All scrapers successful

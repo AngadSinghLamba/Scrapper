@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-08-27T06:28:48.665124Z",
-  "articles": []
+  "last_updated": "2026-08-28T08:19:40.042166Z",
+  "articles": [
+    {
+      "id": "994955a12d63b26a",
+      "title": "Who let the agents in",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/who-let-the-agents-in",
+      "summary": "It’s you, and it’s getting easier",
+      "published_at": "2026-08-27T13:03:42.912Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

@@ -1,19 +1,4 @@
 {
-  "last_updated": "2026-08-29T05:00:58.572394Z",
-  "articles": [
-    {
-      "id": "12fd7e5aecfe0385",
-      "title": "How I built this",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/how-i-built-this-21f",
-      "summary": "Ben’s session #4",
-      "published_at": "2026-08-28T12:14:10.722Z",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    }
-  ]
+  "last_updated": "2026-08-30T02:50:31.490254Z",
+  "articles": []
 }

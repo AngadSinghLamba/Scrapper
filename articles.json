@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-09-01T02:55:13.587508Z",
-  "articles": []
+  "last_updated": "2026-09-02T02:15:37.126553Z",
+  "articles": [
+    {
+      "id": "da5e09a6a6adf579",
+      "title": "Build your ideas",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/build-your-ideas",
+      "summary": "Claude Code limits and Infinite Slop",
+      "published_at": "2026-09-01T13:04:30.437Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

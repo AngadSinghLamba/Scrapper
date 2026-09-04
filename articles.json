@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-09-03T02:22:48.798470Z",
-  "articles": []
+  "last_updated": "2026-09-04T02:17:42.093793Z",
+  "articles": [
+    {
+      "id": "6e2a2f28a1a2d75f",
+      "title": "Fable 5.1",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/fable-51",
+      "summary": "where do my tokens go?",
+      "published_at": "2026-09-03T13:03:56.733Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

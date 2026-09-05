@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-04T02:17:42.093793Z",
+  "last_updated": "2026-09-05T02:18:26.271213Z",
   "articles": [
     {
-      "id": "6e2a2f28a1a2d75f",
-      "title": "Fable 5.1",
+      "id": "9f99226a4045d24e",
+      "title": "Scraping 107M rows of data to build this",
       "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/fable-51",
-      "summary": "where do my tokens go?",
-      "published_at": "2026-09-03T13:03:56.733Z",
+      "url": "https://www.bensbites.com/p/scraping-107m-rows-of-data-to-build",
+      "summary": "Ben’s session #5",
+      "published_at": "2026-09-04T14:56:17.327Z",
       "category": "AI News",
       "saved": false,
       "metadata": {

@@ -1,19 +1,4 @@
 {
-  "last_updated": "2026-09-05T02:18:26.271213Z",
-  "articles": [
-    {
-      "id": "9f99226a4045d24e",
-      "title": "Scraping 107M rows of data to build this",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/scraping-107m-rows-of-data-to-build",
-      "summary": "Ben’s session #5",
-      "published_at": "2026-09-04T14:56:17.327Z",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    }
-  ]
+  "last_updated": "2026-09-06T02:14:13.865558Z",
+  "articles": []
 }

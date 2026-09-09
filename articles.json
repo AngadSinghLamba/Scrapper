@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-09-08T02:23:37.504295Z",
-  "articles": []
+  "last_updated": "2026-09-09T02:26:08.178243Z",
+  "articles": [
+    {
+      "id": "b6e8533ed7bd1b3d",
+      "title": "The first GPT-6 model",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/the-first-gpt-6-model",
+      "summary": "and what I’m building with it",
+      "published_at": "2026-09-08T13:03:52.904Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

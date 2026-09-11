@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-09-10T02:26:09.608278Z",
-  "articles": []
+  "last_updated": "2026-09-11T02:20:47.602556Z",
+  "articles": [
+    {
+      "id": "e94e09b8ccedbd63",
+      "title": "Everyone needs a Muse",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/everyone-needs-a-muse",
+      "summary": "ChatGPT images got better, again",
+      "published_at": "2026-09-10T13:03:34.376Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

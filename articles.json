@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-09-15T02:46:40.698831Z",
-  "articles": []
+  "last_updated": "2026-09-16T02:41:27.851933Z",
+  "articles": [
+    {
+      "id": "56a6485ae616431c",
+      "title": "Good luck slowing this down",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/good-luck-slowing-this-down",
+      "summary": "plus what’s new in AI this week",
+      "published_at": "2026-09-15T13:02:52.684Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

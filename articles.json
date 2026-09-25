@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-09-24T02:31:39.237047Z",
-  "articles": []
+  "last_updated": "2026-09-25T02:48:34.486884Z",
+  "articles": [
+    {
+      "id": "ca857dc2682023e5",
+      "title": "Back to Claude",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/back-to-claude",
+      "summary": "GPT-6 Sol and Luna got cheaper",
+      "published_at": "2026-09-24T13:04:08.749Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

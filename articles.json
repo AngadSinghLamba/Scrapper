@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-09-29T03:34:16.984610Z",
-  "articles": []
+  "last_updated": "2026-09-30T03:19:42.856576Z",
+  "articles": [
+    {
+      "id": "5123f439428c0834",
+      "title": "Sonnet 5.5 is worth a try",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/sonnet-55-is-worth-a-try",
+      "summary": "Manus vs Muse and examples for computer use",
+      "published_at": "2026-09-29T13:01:15.856Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

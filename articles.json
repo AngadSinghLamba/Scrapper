@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-10-06T04:09:32.402894Z",
-  "articles": []
+  "last_updated": "2026-10-07T03:36:52.904818Z",
+  "articles": [
+    {
+      "id": "d57599eaa29d29d5",
+      "title": "Thoughts from San Francisco",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/thoughts-from-san-francisco",
+      "summary": "Agents.md in Google Docs",
+      "published_at": "2026-10-06T13:01:18.086Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

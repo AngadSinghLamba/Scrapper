@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-10-13T04:50:36.336894Z",
-  "articles": []
+  "last_updated": "2026-10-14T02:58:05.982470Z",
+  "articles": [
+    {
+      "id": "2145fb0d5e9d229a",
+      "title": "Zuck’s wonder...full",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/zucks-wonderfull",
+      "summary": "Is software dead, again?",
+      "published_at": "2026-10-13T13:00:35.488Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

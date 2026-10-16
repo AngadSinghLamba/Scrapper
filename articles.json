@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-10-15T02:37:34.304001Z",
-  "articles": []
+  "last_updated": "2026-10-16T02:32:44.392498Z",
+  "articles": [
+    {
+      "id": "dafcd2f278b5cf45",
+      "title": "Prompt tips from Anthropic",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
+      "summary": "Google’s new model isn’t for me on my first test, mixed reviews",
+      "published_at": "2026-10-15T13:01:39.151Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

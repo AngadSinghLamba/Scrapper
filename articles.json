@@ -1,19 +1,4 @@
 {
-  "last_updated": "2026-10-21T02:46:00.042537Z",
-  "articles": [
-    {
-      "id": "d27f275135674615",
-      "title": "How I built my ‘everything’ app",
-      "source": "Ben's Bites",
-      "url": "https://www.bensbites.com/p/how-i-built-my-everything-app",
-      "summary": "AI can customise your home devices, like your TV",
-      "published_at": "2026-10-20T13:02:28.320Z",
-      "category": "AI News",
-      "saved": false,
-      "metadata": {
-        "author": "Ben Tossell",
-        "newsletter_issue": ""
-      }
-    }
-  ]
+  "last_updated": "2026-10-22T02:44:19.667856Z",
+  "articles": []
 }

@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-10-22T02:44:19.667856Z",
-  "articles": []
+  "last_updated": "2026-10-23T02:48:21.155901Z",
+  "articles": [
+    {
+      "id": "34b5725409eacfb2",
+      "title": "Claude’s personal agent",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/claudes-personal-agent",
+      "summary": "And how I run the newsletter with agents",
+      "published_at": "2026-10-22T13:01:21.604Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

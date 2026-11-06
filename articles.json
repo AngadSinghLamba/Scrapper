@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-11-05T04:32:22.289421Z",
-  "articles": []
+  "last_updated": "2026-11-06T04:30:48.754489Z",
+  "articles": [
+    {
+      "id": "3a6288ae08295101",
+      "title": "Craft and taste",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/craft-and-taste",
+      "summary": "What does old me think",
+      "published_at": "2026-11-05T14:02:12.140Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }

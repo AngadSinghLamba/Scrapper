@@ -1,4 +1,19 @@
 {
-  "last_updated": "2026-11-24T07:49:46.460031Z",
-  "articles": []
+  "last_updated": "2026-11-25T06:22:10.970939Z",
+  "articles": [
+    {
+      "id": "b06354b8bc76b36a",
+      "title": "Commitment issues (app edition)",
+      "source": "Ben's Bites",
+      "url": "https://www.bensbites.com/p/commitment-issues-app-edition",
+      "summary": "It’s not me, it’s you",
+      "published_at": "2026-11-24T14:04:45.332Z",
+      "category": "AI News",
+      "saved": false,
+      "metadata": {
+        "author": "Ben Tossell",
+        "newsletter_issue": ""
+      }
+    }
+  ]
 }
